@@ -1,0 +1,3233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief directions for true-spelling being an abbreviat of the most usefull rules conducible to the promoting that excellent knowledge of writing true English ... : to which is added copies of letters, bills of parcels, bills of exchange, bills of debt, receipts, with pertinent rules as helps thereunto / all prepared and methodiz'd by Henry Preston.</title>
+            <author>Preston, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70846</idno>
+            <idno type="STC">Wing P3297A</idno>
+            <idno type="STC">ESTC R1860</idno>
+            <idno type="EEBO-CITATION">08723609</idno>
+            <idno type="OCLC">ocm 08723609</idno>
+            <idno type="VID">41674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41674)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 749:18, 1267:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brief directions for true-spelling being an abbreviat of the most usefull rules conducible to the promoting that excellent knowledge of writing true English ... : to which is added copies of letters, bills of parcels, bills of exchange, bills of debt, receipts, with pertinent rules as helps thereunto / all prepared and methodiz'd by Henry Preston.</title>
+                  <author>Preston, Henry.</author>
+               </titleStmt>
+               <extent>[2], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. and are to be sold by William Bishop ,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1673?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Orthography and spelling.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41674:1" rendition="simple:additions"/>
+            <p>BRIEF DIRECTIONS. FOR True-ſpelling. Being an Abbreviat of the moſt uſefull Rules, conducible to the promoting That Excellent Knowledge of Writing true Engliſh, Much wanted by many, eſpecially ſuch as never well underſtood the Latin-tongue, And is therefore commended to youth, as a good means for their accompliſhment.</p>
+            <p>To which is added. Copies of Letters, Bills of parcels, Bills of Exchange, Bills of Debt, Receipts, with pertinent Rules as Helps thereunto.</p>
+            <p>All prepar'd and methodiz'd by <hi>Henry Preston</hi> Writing-maſter, a well-wiſher to youths attainment.</p>
+            <p>Licenſed <hi>March.</hi> 17. 1673. <hi>Roger L'-Eſtrange.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>J.R.</hi> and are to be ſold by <hi>William Biſhop</hi> at the <hi>Fountain</hi> at <hi>London Wall;</hi> near <hi>Garpen</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41674:2"/>
+            <pb facs="tcp:41674:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <p>THou haſt here preſented thee ſome of the ea<g ref="char:EOLhyphen"/>ſieſt Rules for true ſpelling, a work very much tending to thy profit, if well under<g ref="char:EOLhyphen"/>ſtood. The reaſon of its production hath been my Obſervation of the want thereof, especially in young people, having been acquainted neer twenty years with their ſhortneſſes and inabilities therein. To write well, and yet not to know how to write true <hi>Engliſh</hi> muſt needs be a great diſparagement, and to my knowledg, hath rendred many uncapable of bu<g ref="char:EOLhyphen"/>ſineſs, that would have been much to their advant<g ref="char:EOLhyphen"/>age, which makes me very urgent with all I am ac<g ref="char:EOLhyphen"/>quainted with, to train up their children in the know<g ref="char:EOLhyphen"/>ledg of Grammar-Rules, upon which the Art of true ſpelling depends, and without which few do arrive to perfect underſtanding therein. Yet for ſuch that have not opportunity to learn, or have not improved their ſeaſon, when they might have learned, 'Tis meet they ſhould not be left without ſome directions to help them: And although there be many worthy books of that nature extant, that might with the pains of Tutors further the perfecting youth herein; yet know<g ref="char:EOLhyphen"/>ing well their little benefit by ſome of them (the cauſe I name not) Have now undertook this little piece, which hath in it ſuch plain rules, that without other help will conduce to the end aforeſaid, Preventing the diſcouragements attending ſuch that are unskil<g ref="char:EOLhyphen"/>ful: Of whom not only most young men in this Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:41674:3"/>but almoſt all the female Sex, many of them being very apt and capable of attaining good hands of writing, which had they the knowledg of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Orthography, would much more be encouraged; And the want whereof is daily found to be a means to weaken their minds in their full and compleat accompliſhment therein, yea ſometimes to their abſolute laying aſide their pens, as being aſhamed of their work, whilſt they are ſenſibly wanting this ſo excellent Ornamental endowment: Hoping many will find profit in the pe<g ref="char:EOLhyphen"/>ruſing and digeſting theſe Rules to the animating themſelves to improve their skill in writing; I have not only taken the pains to compile directions for true writing, but alſo have prepar'd Copies of Letters, Bills, and Receipts, with Bills of parcels, and other need<g ref="char:EOLhyphen"/>full Helps to young beginners. The whole of which is humbly commended to the bleſſing of God; by him that deſires to ſerve his generation according to his capacity and Talent received.</p>
+            <closer>
+               <dateline>Peti-France, <hi>Lond.</hi> 
+                  <date>
+                     <hi>Feb.</hi> 3. 1673.</date>
+               </dateline>
+               <signed>Henry Preſton.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>Thou haſt moſt of this little piece</l>
+               <l>prepar'd in verſe by me;</l>
+               <l>To take thy fancy, head and heart,</l>
+               <l>in what thou here doſt ſee.</l>
+               <l>And if it ſhall be taken well,</l>
+               <l>and profit to thee lend,</l>
+               <l>I ſhall with pains, and great delight,</l>
+               <l>much more quickly commend.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41674:3"/>
+            <argument>
+               <l>THeſe following helps are now produced here</l>
+               <l>The Art of Spelling unto youth to clear;</l>
+               <l>Which when well learn'd will fit him perfectly.</l>
+               <l>To write true Engliſh with great certainty.</l>
+            </argument>
+            <div type="part">
+               <lg>
+                  <l>THe needful thing at entrance is to know</l>
+                  <l>The Letters in their order as below</l>
+                  <l>Which are in number twenty four in all</l>
+                  <l>Diſtinguiſh'd as we uſually them call;</l>
+               </lg>
+               <lg>
+                  <l>Vowels are five, a, e, i, o, and u,</l>
+                  <l>The reſt are conſonants, ſet here in View</l>
+                  <l>b, c, d, f, g, h, k, l, m, n, p, q, r, ſ, t, w, x, y, z,</l>
+                  <l>Yet ſometimes j, and v, when ſounded be,</l>
+                  <l>like conſonants, are written as you ſee, —j, v.</l>
+               </lg>
+               <lg>
+                  <l>The ſound of which as each doth ſignifie,</l>
+                  <l>You may ſee here expreſt in this copie</l>
+                  <l>Produc'd to ſhew their force and property;</l>
+               </lg>
+               <list>
+                  <label>b</label>
+                  <item> bee</item>
+                  <label>c</label>
+                  <item>cee</item>
+                  <label>d</label>
+                  <item>dee</item>
+                  <label>f </label>
+                  <item>ef</item>
+                  <label>g</label>
+                  <item>gee</item>
+                  <label>g </label>
+                  <item>jee </item>
+                  <label>h</label>
+                  <item>he </item>
+                  <label>j</label>
+                  <item>je</item>
+                  <label>k</label>
+                  <item>ca </item>
+                  <label> l</label>
+                  <item>el </item>
+                  <label>m</label>
+                  <item>em </item>
+                  <label>n</label>
+                  <item>en</item>
+                  <label>p</label>
+                  <item>pee</item>
+                  <label>q</label>
+                  <item>cu </item>
+                  <label>r</label>
+                  <item>ar</item>
+                  <label>ſ </label>
+                  <item>es </item>
+                  <label>t </label>
+                  <item>tee </item>
+                  <label>v </label>
+                  <item>ve</item>
+                  <label> w</label>
+                  <item>we </item>
+                  <label>x</label>
+                  <item>ex</item>
+                  <label>y </label>
+                  <item>yi </item>
+                  <label>z.</label>
+                  <item>ze</item>
+               </list>
+               <p>A vowel hath a perfect ſound, without the help of another letter; to which five before-mentioned, ad y, a Greek vowel, which ſounds like i, and then may be eſteemed a vowel, otherwiſe is a conſonant as before; as [A] friend of mine is dead — [I] hope not ſo. [O!] it is too true. <hi>A vowel ſounds of it ſelf.</hi>
+               </p>
+               <p>A mute, or dum letter is that which gives no ſound at all of it ſelf, but is apt by the help of a vowel either before, or after it to ſound, and ſhew its force; as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> k p q t <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb n="2" facs="tcp:41674:4"/>
+               <lg>
+                  <l>A vowel add unto each mute, then ſee</l>
+                  <l>Whither they will not perfect ſounds then be,</l>
+               </lg>
+               <p>By co, dy, go, jo, ko, po, quo, ti, xe, yo;</p>
+               <lg>
+                  <l>Without a vowel, you no ſound can make,</l>
+                  <l>For proof whereof, theſe few examples take,</l>
+               </lg>
+               <p>grnt, ſtrngth, ſtrng, ſtrng, thmb.</p>
+               <lg>
+                  <l>which five if any ask us what they ſpell?</l>
+                  <l>We ſay nothing, there is not a vowel:</l>
+                  <l>But if to each a vowel you do take,</l>
+                  <l>They will then all a word, with good ſound make.</l>
+               </lg>
+               <p>
+                  <hi>Ex.</hi> Put <hi>a</hi> to the firſt, <hi>e</hi> to the ſecond, <hi>i</hi> to the third,
+<hi>o</hi> to the fourth, <hi>u</hi> to the fifth; and they'l ſpell.
+grant, ſtrength, ſtring, ſtrong, thumb.</p>
+               <lg>
+                  <l>Forget not therefore when a ſound you'ld make,</l>
+                  <l>That you a proper vowel then do take—</l>
+                  <l>
+                     <hi>C</hi> Before <hi>a, o, u,</hi> ſounds like to k,</l>
+                  <l>But before <hi>e,</hi> and <hi>i,</hi> like <hi>s</hi> alway.</l>
+               </lg>
+               <p>
+                  <hi>Exa. to both</hi> can, came, court, cuſtom, con, cunning, cellar, ceaſe, ceive, civility, city, celerity.</p>
+               <lg>
+                  <l>For ſpelling right, the ſyllables you'l find,</l>
+                  <l>By parting them in ſound within your mind;</l>
+                  <l>They being known when they di╌vi╌ded be,</l>
+                  <l>Help to teach learners true Or╌tho╌gra╌phy;</l>
+                  <l>To know a Syllable you muſt conſider,</l>
+                  <l>How many letters you doe ſpell together,</l>
+                  <l>Examples many are here under-ſet,</l>
+                  <l>For you, That knowledg perfectly to get.</l>
+               </lg>
+               <p>Af╌ter, ſin╌ce╌ri╌ty, pre╌pa╌ra╌ti╌on, ge╌ne╌ra╌ti╌on,</p>
+               <p>Ex╌tra╌or╌di╌na╌ri╌ly, tran╌ſub╌ſtan╌ti╌a╌ti╌on,</p>
+               <p>Re╌con╌ci╌li╌a╌ti╌on, re╌for╌ma╌ti╌on, du╌ra╌ti╌on,</p>
+               <p>Re╌cre╌a╌ti╌on, in╌ter╌eſt, a╌do╌ra╌ti╌on, a╌mi╌a╌ble.</p>
+               <lg>
+                  <l>A conſonant between two vowels we,</l>
+                  <l>To th' latter joyn, as here below you'l ſee,</l>
+               </lg>
+               <p>Re╌gard, re╌courſe, pre╌pare, de╌clare, pro╌poſe, ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb n="3" facs="tcp:41674:4"/>
+               <lg>
+                  <l>Yet ſome exceptions we in Rules muſt make,</l>
+                  <l>Elſe in this ſpelling Art may yet miſtake;</l>
+                  <l>To this therefore exceptions there are three,</l>
+                  <l>Which when produc'd this rule will perfect be.</l>
+               </lg>
+               <p>
+                  <label>1. <hi>Exception.</hi>
+                  </label> When ab or x, comes before a vowel, as Ab╌ove, ab╌ound, ab╌undance, ox╌en, ex╌erciſe.</p>
+               <p>
+                  <label>2. <hi>Exception.</hi>
+                  </label> In double words, as Ab╌hor, al╌one, un╌armed, un╌uſual, en╌able, in╌ure, en╌amour, ad╌orne, without, with╌in,</p>
+               <p>
+                  <label>3d. <hi>Exception.</hi>
+                  </label> When a word of one ſyllable goes before╌ing, as Speak╌ing, com╌ing, treat╌ing, ſqueak╌ing.</p>
+               <lg>
+                  <l>Ti writ before a vowel, commonly,</l>
+                  <l>Doth make it ſelf in ſound equal to ſi,</l>
+                  <l>As, nation, patience, ſtation, re-lation, propoſition,</l>
+                  <l>Proportion, petition, relaxation, dictionary, poſition.</l>
+                  <l>To this alſo there are exceptions two,</l>
+                  <l>Which here are put, the difference to ſhew.</l>
+               </lg>
+               <p>
+                  <label>1. <hi>Exception.</hi>
+                  </label> When ſ goes before ti, as in fuſtian Combuſtion, ſuggeſtion, queſtion. <hi>ti keeps its ſound.</hi>
+               </p>
+               <p>
+                  <label>2. <hi>Exception.</hi>
+                  </label> VVhen words end in ti, that have a ſyllable added to them that begins with a vowel, as pitty, pitious, plentious, loftier, mightier, weightier, courtier.</p>
+               <lg>
+                  <l>Two ſorts of ſyllables there are in kind,</l>
+                  <l>A long and ſhort, the difference you'l find,</l>
+                  <l>The long is known by its pronouncing ſo</l>
+                  <l>The ſhort likewiſe, as theſe Examples ſhow,</l>
+               </lg>
+               <p>As, Fir, hug, can, bit, fat, mad, ſpar, not, hat, on— <label>ſhort</label>
+               </p>
+               <p>Fire, huge, cane, bite, fate, made, ſpare, note, hate, one <label>long</label>
+               </p>
+               <pb n="4" facs="tcp:41674:5"/>
+               <lg>
+                  <l>VVherein you ſee e doth make the ſound long,</l>
+                  <l>And all words elſe that ſound with a dipthong.</l>
+                  <l>Examples take to make that alſo clear,</l>
+                  <l>By their contrary ſpelling as is here:</l>
+               </lg>
+               <p>
+                  <hi>Short ſyllables, made long with a dipthong.</hi>
+               </p>
+               <p>Tall, rall, bed, bran, ſhut, rod, what, chat,</p>
+               <p>Tayl, rayl, bead, brain, ſhoot, rood, wheat, cheat,</p>
+               <lg>
+                  <l>Yet ſometimes e doth not its full ſound make,</l>
+                  <l>When unto it we do a vowel take,</l>
+               </lg>
+               <p>As, Change╌able, peace╌able, charge╌able</p>
+               <lg>
+                  <l>And alſo then when words do end in Ve,</l>
+                  <l>You muſt obſerve the ſound is loſt in e.</l>
+               </lg>
+               <p>As, above, behove, glove, move, live, have, prov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>drove, remove, receive, contrive, relieve.</p>
+               <lg>
+                  <l>VVhich muſt be written ſo except you do</l>
+                  <l>Add one more ſyllable, as theſe below.</l>
+               </lg>
+               <p>Having, living, moving, loving, droving, proving.</p>
+               <lg>
+                  <l>E in them words is left out as you ſee,</l>
+                  <l>And ſo in theſe below alſo may be.</l>
+               </lg>
+               <p>Dark, turn, ſom, run, ſpark, tun, mar, ſum, ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>not, as uſually tis written.</p>
+               <p>Darke, turne, ſome, runne, ſparke, tune, &amp;c.</p>
+               <lg>
+                  <l>And all words elſe when it no ſound doth make,</l>
+                  <l>(Except in theſe) the e you need not take.</l>
+               </lg>
+               <p>
+                  <label>In theſe below you muſt add <hi>e.</hi>
+                  </label>
+Chaſte, haſte, verſe, taſte, horſe, breathe, elſe, diver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+waſte, falſe, ſenſe, roſte, leave, pleaſe, ſeize, cour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+ſourſe, ceaſe, diſeaſe, eaſe, cleave, ſenſe.</p>
+               <lg>
+                  <l>E at the end of words no ſound doth make,</l>
+                  <l>Only in theſe which for Example take;</l>
+               </lg>
+               <p>Clo╌e, Phe╌be, E╌pi╌to╌me, Ju╌bi╌le, Ga╌li╌le, E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ni╌ce, Jeſſe,</p>
+               <lg>
+                  <head>What a dipthong is.</head>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> two vowels take.</l>
+                  <pb n="5" facs="tcp:41674:5"/>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here are twelve proper dipthongs, called ſo,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oth vowels keep their ſound, as here below:</l>
+               </lg>
+               <p>[ay, ey, oy, ai, ei, oi, au, eu, ou, aw, ew, ow.]</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he reſt are call'd improper, eight they be,</l>
+                  <l>One of their vowel-ſounds they looſe we ſee,</l>
+               </lg>
+               <p>ea, ee, ie, co, oa, oo, ui, ou, As in theſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach, meet, chief, people, goat, good, guide, couſin.</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſpelling Art, there are ſome letters we,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſt ſurely make, though they not ſounded be,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he whole of which take as they here do ly,</l>
+                  <l>And make them for a copie to write by.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> theſe words here below we ſound not b,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et muſt be ſpelt as here you'l plainly ſee;</l>
+               </lg>
+               <p>Dumb, lamb, womb, coxcomb, climb, limb, comb. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>umb, thumb, doubtleſs, doubt, debt, ſubtil, undoubted</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> between a vowel and a k,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s not ſounded, yet ſo tis write alway.</l>
+               </lg>
+               <p>
+                  <label>Example.</label> Sick, thick, black, jack, lick, trick, flock, ſtick, check, quick, frock, clock, truck, antick, lock, cock, dock, truck, nick, brick, mock, pack, rock.</p>
+               <lg>
+                  <l>When c is placed after ſ, as here,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hath no ſound as by theſe will appear.</l>
+               </lg>
+               <p>Aſcent, concupiſcence, conſcience, diſciple, laſcivious, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cent, ſciatica, tranſcendant, Schiſm.</p>
+               <lg>
+                  <l>We write theſe terminations with a c,</l>
+                  <l>And all that follow after as they be.</l>
+               </lg>
+               <p>Ance, ence, ince, once, unce, enhance, ſince, eloquence, abundance, abſtinence, advance, aſſiſtance, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:41674:6" rendition="simple:additions"/>temperance, ſufferance, providence, ſub<g ref="char:EOLhyphen"/>ſtance, pronounce, guidance, experience, eſſence commence, benevolence.</p>
+               <lg>
+                  <l>Except in theſe, wherein an I we make,</l>
+                  <l>Only herenam'd for to prevent miſtake.</l>
+               </lg>
+               <p>Incenſe, nonſenſe, diſpenſe, rinſe, ſuſpenſe, recom<g ref="char:EOLhyphen"/>penſe, propenſe, ſenſe, (one of the five ſenſes.)</p>
+               <lg>
+                  <l>The general rules that yet do follow here,</l>
+                  <l>Are as was ſaid the ſpelling-Art to clear,</l>
+                  <l>Obſerve them well, and good skill gain you may,</l>
+                  <l>To fit you for your work another day.</l>
+               </lg>
+               <p>A c following x, looſeth its ſound, As in excel, except excerpt, exceſs.</p>
+               <p>Ch, ſounds like k in theſe, choler, ſchool, Malachi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtomach, Anarchy, Arch-angel, cholick, Chyrurgion Chronicle, Chymicall, Mechanick, Monarchy, Patri<g ref="char:EOLhyphen"/>arch, Eunuch.</p>
+               <p>Gh, through cuſtome are ſounded like<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f, in theſe Although, rough, draught, laugh, cough, enough, daugh<g ref="char:EOLhyphen"/>ter, bought, brought, ought.</p>
+               <p>Gh, ſounds with the breathing h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in theſe, Bough, wrought, high, weigh, might righteous ſight naughty, ſought, through, ſigh.</p>
+               <p>G, doth not ſound in theſe, Phlegm feign, ſign, de<g ref="char:EOLhyphen"/>ſign, reign, Sovereign, arreign, enſign, aſſign, reſign, ſigned, weight.</p>
+               <p>U, follows G, and is not ſounded in theſe, guide, tongue, league, diſguiſe, guil gueſs, guard, gueſt, rogue Collogue, Catalogue, prorogue, dialogue, Prologue, Epilogue, guardian, guilty, plague.</p>
+               <p>H, ſounds not after g or r, as in theſe, Ghoſt Rhe<g ref="char:EOLhyphen"/>torick, Rheume, Rhodes, dunghil, (Rhine, a river.)
+<pb n="7" facs="tcp:41674:6"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e l is doubled, as all; ball; bell; bill; boll; bull; fill; hall; hill; ſtill; quill; hell; will; wall; ſpill; ſmall; call; pills; tell; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell; full; Hill.</p>
+               <p>But after dipthongs ſingle, as in theſe, bayl; coyl, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il; moyl; foil; toyl; ſoyl.</p>
+               <p>So Poly-ſillables, or words of more than one ſyl<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble end with a ſingle l, as in Burial, Cathedral, Chan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el, ſinful, uſual, tribunal, evil, ſpecial, material, quarrel.</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hough in theſe words ſome do not ſound the l,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et it ſhould ſounded be as we it ſpell;</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alve; half; Ralph; folk; balk; calf; talk; falcon; falconer;</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>almſey, not, ſave, haf, Raf, fok, &amp;c.</l>
+               </lg>
+               <p>P, is not ſounded in theſe, Pſalm; tempt; temptati<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n; Simpſon; receipt; Sympton.</p>
+               <p>Ph, ſounds like f in Nimph; Phylactery; Coſmo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aphy; Elephant; Emphaſis; Pamphlet; Epitaph; Geo<g ref="char:EOLhyphen"/>raphy; nephew; Orphan; Triumph; Humphrey; E<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raim; Philip; Philemon; Phebe; Phyladelphia; Phea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, Phariſee; Phraſe; Phlebotomy; Sphear; Sulphur.</p>
+               <p>But not where Ph, are in two ſyllables, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ep╌herd; Clap╌ham.</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er the r or l, e doth rebound,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d is true ſpelt as they are here now found.</l>
+               </lg>
+               <p>Luſtre; little; ſepulchre; Temple; Acre; people; able; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gle; bramble; brittle; bubble; buckle; bundle; cable; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adle; caſtle; crackle; humble; juggle; Juſtle; kindle; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re; Maugre; nitre; needle; nettle; tigre; trouble; treble; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>angle; wreſtle; warble; trifle; ſtradle; ſpitle; muckle; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cle; fable; ſadle; bauble; bible-bable.</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nds no word but where tis ſounded I,</l>
+                  <l>We do put in the room the letter y;</l>
+               </lg>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> property; reply; ſtudy; try; my, reply, cry; dy;</p>
+               <pb n="8" facs="tcp:41674:7"/>
+               <lg>
+                  <l>When <hi>u</hi> at end of any word is ſounded,</l>
+                  <l>The vowel <hi>e</hi> is always then propounded;</l>
+               </lg>
+               <p>As, in due: ſue: true: hue: value: vertue: iſſue: pur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> due: blue: conſtrue: retinue: revenue.</p>
+               <p>Ey is writ where i is ſounded at the end of a word in theſe, Abbey: alley: Angleſey: Atturney: burley: cauſey: chimney: cockney: countrey: eye: Hackney: honey: money: kidney: monkey: pulley: purſley: talley: tanſey: Turkey.</p>
+               <p>Ey ſounds ay in theſe, they: obey: convey: ſurvey: key: grey: Surveyer: whey: deign: eight: veins: height: weight: reign: heir.</p>
+               <p>Ei, ſounds e long in forfeit: Carreir: either: he fer: conceit: conceive: deceit: enterfeir: leiſure: neighbour: receipt: receive: ſeize.</p>
+               <p>Ew, keeps its ſound, as in theſe, few: lewd: ewe He-brew: brew: chew: drew: embrew: Hew: Gew: gaws: Jewel: knew: fewer: ſtew: ſteward.</p>
+               <lg>
+                  <l>Y, in theſe words is ſounded like to i,</l>
+                  <l>And is ſo writ in Synod, Sympathy,</l>
+               </lg>
+               <p>Type: Presbyterian: Martyr: Alchymy: Analyſis: Apocalyps: Cymbal: Cypreſs: Chryſtal: Etymo<g ref="char:EOLhyphen"/>logie: Myrrh: myſtical: Myſtery: hypocrite: Labyrinth: Myriad: Nymph: Satyre: Sycomore Sycophant: Synagogue: Tyrant: ſyrup, &amp;c.</p>
+               <lg>
+                  <l>Ea, ſounds e drawn long as here you ſee,</l>
+                  <l>Where ea's writ in the room of the e;</l>
+               </lg>
+               <p>Appeal: ear: appeaſe: Bean: Bear: Beaſt: beat: cheat: clean: dream: break: ceaſe: meal: mean: meat: eat: Eaſter: eaſie: zeal: year: wear: weal<g ref="char:EOLhyphen"/>treatiſe: roar: teach: ſwear: ſurceaſe: ſtreak: ſtream: ſeamleſs: Leaſe: ſqueak: ſpread: ſpear: ſheath reach: deal: deceaſe: congeal: head: breaſt: dead: earth: health: ready: dread: beard: bread: hear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <pb n="9" facs="tcp:41674:7"/>
+               <p>E i, ſounds ee, as in believe: relief: pierce: ſhield: atchieve: pieces: Lievtenant: yield: fierce: prieſt: chief: beſiege: caſhier: friend: frontiers: grief: grievance: grievous: hankerchief: view: yield.</p>
+               <p>This dipthong ie, is parted in theſe words, there<g ref="char:EOLhyphen"/>fore ſounds not as before; audi-ence: bri-er: cli-ent: clothi-er: di-et: qui-et: buri-ed: buſi-ed: eſpi-ed: reli-ed: ſtudi-ed: dri-ed: outvi-ed.</p>
+               <p>Oa, ſounds the o long, in hoarſe: boat: boar: oat: choak: toad: boaſt: encroach: abroad: goad: ſtroak: board: broach: coach: cloak: coal: coap: coat: cloak: coaſt: goat: groanning: groat: Hoary.</p>
+               <p>This dipthong oa, is parted in theſe, therefore not ſounded as before, co-action: co-agulate: Ahino-am: Gilbo-ah: bo-anerges.</p>
+               <p>Oi or oy, is ſounded in theſe words; poiſon: point: boyl: jointure: voyage: tortoiſe: coy: boy: oyl: oyntment: poiſe: void: noyſome: noiſe: employ: ex<g ref="char:EOLhyphen"/>ploit: foyl: moyſt: employment: emeroides: em<g ref="char:EOLhyphen"/>broider: cloyſter: cloy.</p>
+               <p>Oo, ſounds like woo, in theſe; chooſe: floor: roof: hoop: broom: brook: food: boon: fool: looſe: boot: coop<g ref="char:EOLhyphen"/>er: foot: crook: poor: brood: foord: forſooth: gooſe: looſe: moon: moor: rood: root: ſtool: ſtoop: tooth.</p>
+               <p>Oo, ſounds ſhort u in theſe, good: hood: blood: wood: ſtood: wool: foot.</p>
+               <p>Ow, ſounds hard in, Vow: allow: vowel: now ſow-pig: Cowards: Cow: (a kine that gives milk.)</p>
+               <p>Ow ſounds like o, in beſtow: ſlow: low: window: know: throw: pillow: ſhadow: ſorrow: willow: win<g ref="char:EOLhyphen"/>now: widow: know: barrow: arrow: fallow: morrow follow.</p>
+               <p>Ou ſounds like u in, Couſin: double: flouriſh: young: ſcourge: nouriſh: floud: touch: doublet:</p>
+               <pb n="10" facs="tcp:41674:8"/>
+               <p>Ou founds like o, in vapour, bought brought. ho<g ref="char:EOLhyphen"/>nour. although. wrought. though. ſolicitour. ſuccour. ri<g ref="char:EOLhyphen"/>gour. gourd. harbour. behaviour. endeavour. manour. nought. colour. Armour. Emperour. clamour. odour. thought. Saviour. humour.</p>
+               <p>Ou, ſounds broad in flout. ſlouch. couch.</p>
+               <p>Ui, ſounds like i, in guide. guile. conduit. guiſe. diſguiſe. beguil. build. buyer. verjuice. buy.</p>
+               <p>Ui ſounds like u in recruit. fruit. ſuit. ſuitor. bruiſe. fruitful. juice. purſuit. ſuitable.</p>
+               <p>This dipthong ui is parted in theſe words, there<g ref="char:EOLhyphen"/>fore not to be ſounded as before, ambigu-ity. frui-tion. genu-ine. pu-iſſant. perpetu ity. perſpicu-ity. ru-ine.</p>
+               <p>J conſonant before all vowels, is ſounded as G latin before e, or i; and as ſounded different from the vowel, ſo it ſhould be writ and made, as in theſe words jar. jeſt. jear. jill. join. june. rejoice. joy. judg. ſubjoin.</p>
+               <p>Alſo the v conſonant where ever it hath its proper ſound of va. ve. vi. vo. vu. it ſhould be ſo writ as it is in theſe words, different from u vowel, Vain. ve<g ref="char:EOLhyphen"/>rity. verily. vice. voice. vertue. vicious. revive. con<g ref="char:EOLhyphen"/>nive. vivification. convince. receive. give. vulture.</p>
+            </div>
+            <div type="part">
+               <argument>
+                  <l>Although no new thing here doth come to hand,</l>
+                  <l>Yet you'l by ſhort collections underſtand,</l>
+                  <l>How to write many words that different be,</l>
+                  <l>Both ſounded, nam'd, and written as you ſee.</l>
+                  <l>The rules here given may to much profit tend</l>
+                  <l>If you do read them oft from end' to end,</l>
+                  <l>And well improve them as you ought to do,</l>
+                  <l>VVith care, delight, and diligence to ſhow;</l>
+                  <l>VVhat further is produc'd, is to make plain,</l>
+                  <pb n="11" facs="tcp:41674:8"/>
+                  <l>Knowing what yet we have herein to ſay,</l>
+                  <l>Will add to their aſſiſtance day by day.</l>
+               </argument>
+               <p>The Capital or Great Letters have in the begin<g ref="char:EOLhyphen"/>ning of words their peculiar uſes: noting not only proper names of Men, Cities, Callings, as <hi>Ambroſe, Marcus, London, York, Spain, Turky, England, Mer<g ref="char:EOLhyphen"/>ter, Grocer;</hi> but Dignities and Offices, as <hi>Highneſs, Lord Mayor, Your Honour, Worſhip, Sir, Father, Mother,</hi> and names of Arts; as <hi>Grammer, Rhetorick, Writing, Muſick, Arithmetick,</hi> the beginning of every verſe, and I, by it ſelf, little i being never made by it ſelf, as <hi>I go, I am, I will,</hi> &amp;c. Alſo of things obſervable, ſuch as is the principal matter handled in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Book, likewiſe beginnings of ſentences, and when words of another are quoted, as <hi>Gen.</hi> 1.3. <hi>And God ſaid, Let there be light;</hi> So in <hi>Exod.</hi> 16.4. <hi>Then ſaid the Lord to Moſes, Behold I will rain bread from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaven,</hi> and in the 9. verſe. <hi>And Moſes ſpake unto Aaron, Say unto the children of Iſrael, Come near <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efore the Lord;</hi> there are two ſuch included ſpeeches; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wit the ſpeech of <hi>Moſes</hi> to <hi>Aaron,</hi> and the ſpeech <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>Aaron</hi> to the People, where you ſee great letters; alſo in Emphatical, or remarkable words, as God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id to <hi>Moſes</hi> I AM hath ſent thee whole ſenten<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Emphaticall: as <hi>JEHOVAH THE <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>RANCH, KING OF KINGS AND LORD OF LORDS,</hi> and ſuch like, often <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und in the HOLY BIBLE.</p>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll ſtops and points muſt be obſerv'd when you,</l>
+                  <l>Would write with credit, and your skill would ſhew,</l>
+               </lg>
+               <list>
+                  <label>The Comma(,)</label>
+                  <item>
+                     <l>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſtops be ſmall, then Comma you ſhould take,</l>
+                  </item>
+                  <label>The Semicolon(:)</label>
+                  <item>
+                     <l>If greater, you muſt Semicolon take,</l>
+                  </item>
+                  <pb n="12" facs="tcp:41674:9"/>
+                  <label>The Colon(:)</label>
+                  <item>If half a ſentence, then the Colon you,</item>
+                  <label>The Period, or full point(.)</label>
+                  <item>
+                     <l>Muſt plainly make, if out, this point doth ſhew,</l>
+
+                     <p>The Period is a point of perfect ſenſe, and perfect ſentence: at the end of which the tone of the voice falleth below its ordinary tenour, with a long pauſe.— A great letter alwaies follows, as is before</p>
+                  </item>
+                  <label>An Apoſtrophae(')</label>
+                  <item>
+                     <l>This is a note ſet o're that place where you,</l>
+                     <l>Leave out a vowel, as theſe words do ſhew.</l>
+                     <p>Penn d, ſinn'd, train'd th'other, ſav'd, it's, 'twill.</p>
+                  </item>
+                  <label>Hyphen, a note of connexion, (=) or (—)</label>
+                  <item>
+                     <l>VVhen you have compound words, or end your line,</l>
+                     <l>In parting words, this mark is for a ſign,</l>
+                     <p>As ſom-times, through-out, Common-wealth, ſafe<g ref="char:EOLhyphen"/>guard, miſs-like, Houſe-keeping, &amp;c.</p>
+                     <p>VVhen end your line you part the word in Syllables,
+<q>Sir, your buſineſs is accom<g ref="char:EOLhyphen"/>pliſhed with much credit, <hi>vale.</hi>
+                        </q>
+                        <q>I am glad there<g ref="char:EOLhyphen"/>at, for which I hearti<g ref="char:EOLhyphen"/>ly thank you, <hi>vale.</hi>
+                        </q>
+                     </p>
+                  </item>
+                  <label>An Interrogation point (?)</label>
+                  <item>
+                     <l>This note is put when any queſtion's made,</l>
+                     <l>As doth appear, in what is under ſaid;</l>
+                     <q>
+                        <hi>Queſt.</hi> VVho made you? <hi>Anſ.</hi> God.</q>
+                     <q>
+                        <hi>Queſt.</hi> VVho is the author of preſervation? <hi>An.</hi> God.</q>
+                  </item>
+                  <label>A note of Admiration (!)</label>
+                  <item>
+                     <l>This mark denotes our ſuddain admiration,</l>
+                     <l>Of what we ſay, or write, or give relation.</l>
+                     <q>
+                        <hi>As hear O Heavens! give ear O earth!</hi>
+                     </q>
+                  </item>
+                  <label>A Parentheſis ( )</label>
+                  <item>
+                     <l>This mark a ſentence doth incloſe, when we,</l>
+                     <l>Uſe, or omit the ſame, yet ſence will be,</l>
+                     <q>
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> (that is in my fleſh) dwelleth no good thing</hi>
+                     </q>
+                  </item>
+                  <pb n="13" facs="tcp:41674:9"/>
+                  <label>A caret, or latin circumflex, (⁁)</label>
+                  <item>
+                     <l>VVhen words left out are placed o're the line,</l>
+                     <l>VVhere they come in this mark is for a ſign,</l>
+                  </item>
+                  <label>An Aſteriſme, (*)</label>
+                  <item>
+                     <l>This note of illuſtration is then made,</l>
+                     <l>VVhen to whats writ there might be yet more ſaid;</l>
+                  </item>
+                  <label>A note of Citation, (")</label>
+                  <item>
+                     <l>This is then made when Authors quoted are,</l>
+                     <l>And doth ſhew forth what they to us declare;</l>
+                  </item>
+                  <label>Index, ☞</label>
+                  <item>
+                     <l>This note like to a fore-finger is made,</l>
+                     <l>To point to what remarkable is ſaid;</l>
+                  </item>
+                  <label>Obelisk, (†)</label>
+                  <item>
+                     <l>This is a note alwaies referring to,</l>
+                     <l>The Margin, where the meaning you may know;</l>
+                  </item>
+               </list>
+               <p>Concerning contractions, or writing one or more letters for words; take theſe as follow for help in reading, or writing, Agt. againſt, adm<hi rend="sup">rs.</hi> adminiſtra<g ref="char:EOLhyphen"/>tors, Bp. Biſhop, dd. delivered, Dr. Doctor, <abbr>Esq</abbr> Eſquire, H<hi rend="sup">d.</hi> Honoured, L<hi rend="sup">d.</hi> Lord, L<hi rend="sup">p.</hi> Lordſhip, lr. letter, md. memorandum, Mr. Maſter, Mris. Miſtris, Obt. obedient, p<hi rend="sup">d.</hi> paid, ꝑ per Sr. Sir, <g ref="char:abpre">p̄</g> pre, St. Saint, y<hi rend="sup">n</hi> then, y<hi rend="sup">t</hi> that, y<hi rend="sup">e</hi> the, w<hi rend="sup">t</hi> what w<hi rend="sup">n.</hi> when, W<hi rend="sup">p.</hi> Worſhip, W<hi rend="sup">ll.</hi> Worſhipfull 7b<hi rend="sup">r.</hi> September, 8b<hi rend="sup">r.</hi> October, 9b<hi rend="sup">r</hi>. November, 10br December, Q. Queſtion, A. Anſwer, R. Reaſon, U. Uſe, D<hi rend="sup">r.</hi> debitor, C<hi rend="sup">r.</hi> Creditor, Xpian. Chriſtian, pnts, preſents, &amp; and, &amp;c. et caetera, and ſo forth, (to wit) namely, that is to ſay, m<hi rend="sup">t</hi>. ment, Coll. Colonel, Capt. Captain, Lievt. Lievtenant.</p>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>Our Engliſh words do very much abound,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <pb n="14" facs="tcp:41674:10"/>
+                  <l>Some of them we think meet to publiſh here,</l>
+                  <l>The Art of ſpelling further for to clear.</l>
+               </lg>
+               <lg>
+                  <l>(There) where it points to thing or place muſt be,</l>
+                  <l>Spelt and written as here you plainly ſee,</l>
+                  <l>[Their] when it doth claim ſome propriety,</l>
+                  <l>To any thing, tis written with e, i.</l>
+               </lg>
+               <lg>
+                  <head>Examples.</head>
+                  <l>[Their] Houſe, [their] Land, <hi>[their]</hi> Goods are here,</l>
+                  <l>
+                     <hi>[Their]</hi> proper ſtate doth lie juſt <hi>[there.]</hi>
+                  </l>
+                  <l>By <hi>[ſums]</hi> of Money telling [ſome] do live,</l>
+                  <l>
+                     <hi>[Wait]</hi> now on me, you ſhall juſt <hi>[weight]</hi> receive,</l>
+                  <l>A <hi>[Prophet]</hi> true much <hi>[profit]</hi> brings to men,</l>
+                  <l>A [Mill-wright] cannot <hi>[write]</hi> without a Pen;</l>
+                  <l>[Two] men would come [to] me [to] ask a thing,</l>
+                  <l>'Twas <hi>[hard]</hi> that which I <hi>[heard]</hi> they had to bring.</l>
+                  <l>The Horſe doth <hi>[neigh;] [nay]</hi> twas the voice of men,</l>
+                  <l>We <hi>[write,]</hi> that's <hi>[right,]</hi> yet differently with Pen.</l>
+                  <l>It is good <hi>[Air,]</hi> where now the <hi>[Heir]</hi> doth dwell,</l>
+                  <l>Some locks of <hi>[Hair,] [are]</hi> cut, and we them ſell;</l>
+                  <l>The <hi>[Sun]</hi> doth ſhine upon my <hi>[Son]</hi> to day,</l>
+                  <l>'Tis <hi>[one]</hi> mans right, 'Twill be his <hi>[own]</hi> alway;</l>
+                  <l>To <hi>[bear]</hi> a burden on the ſhoulder <hi>[bare]</hi>
+                  </l>
+                  <l>
+                     <hi>[Rear]</hi> up the houſe, it is a ſtructure <hi>[rare.]</hi>
+                  </l>
+               </lg>
+               <p>In this method I ſhould further proceed, only think it more to the profit and help of young beginners, to explain ſome of our uſual Engliſh words, that are ſeldom fully underſtood by them; therefore have at the end of this ſmall Book annex'd a Table Alphabeti<g ref="char:EOLhyphen"/>cal whereto I refer them, and in which they may not only ſee the ſeveral ſignifications of words, but alſo the true ſpelling of them, whether of like ſound or otherwiſe, the whole of which they will do well to peruſe and obſerue until the have <gap reason="illegible" resp="#PDCC" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:41674:10" rendition="simple:additions"/>
+               <argument>
+                  <lg>
+                     <l>Copies of Letters now do follow here,</l>
+                     <l>Some young beginners therein to prepare,</l>
+                     <l>That when they need they may inſtructed be,</l>
+                     <l>To write in form by what they here do ſee;</l>
+                     <l>The matter being heeded, when they write,</l>
+                     <l>They may hereby conceive how to endite.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>All Letters ſhould begin with declaration,</l>
+                  <l>Of friendly Titles, as a preparation;</l>
+                  <l>Saluting them with love and commendation,</l>
+                  <l>As they are in eſteem, or in Relation;</l>
+                  <l>Then to the matter needfull ſhort and plain,</l>
+                  <l>They ſhould proceed in, as being the Maine</l>
+                  <l>Of their then writing, which when done to ceaſe,</l>
+                  <l>And winde up all, with words of love and peace;</l>
+                  <l>Concluding as unto their friends they ſtand,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n humbleneſs <hi>theirs,</hi> when they them command,</l>
+                  <l>Subſcribing thoſe their Letters with their hand,</l>
+                  <l>And for their ſuperſcription on the ſide,</l>
+                  <l>The name and place where now their friend doth bide</l>
+               </lg>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>Firſt Letter, is a Letter from one at School in</hi> London <hi>to his father in the</hi> Countrey.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>
+                              <hi>January,</hi> 10. 1673.</date>
+                        </dateline>
+                        <salute>Honoured Father,</salute>
+                     </opener>
+                     <p>MY Humbly duty unto you preſented, giving you all hearty thanks for all your love and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>indneſs manifeſted to me. I make bold at this time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> preſent you with a few lines, being the fruits of my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bour, and do hope in time to be better accompliſh<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d to give you an accompt of my proceedings. In the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ean time crave your acceptance of this it coming <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om</p>
+                     <closer>
+                        <salute>
+                           <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> his honoured father</hi>
+                        </salute>
+                        <signed>your obedient ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="16" facs="tcp:41674:11"/>
+                     <head>Another from one at School, to his friend that hath ſhewed kindneſs to him.</head>
+                     <opener>
+                        <dateline>London, <date>
+                              <hi>Feb.</hi> 12. 1673</date>
+                        </dateline>
+                        <salute>Reſpected Sir,</salute>
+                     </opener>
+                     <p>HAving gained ſome skil in this Art of writing ſince my being trained therein, think it my duty to preſent you with ſome fruits thereof, as an humble gratulation, and thankful remembrance of your great love and reſpect ſhewed to me from time to time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> hoping it may gain eſteem, and acceptation with you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> do with brevity, yet in all humility Reſt, ſubſcribing my ſelf,</p>
+                     <closer>
+                        <signed>your obliged friend, <hi>Bartholomew Bates</hi>
+                        </signed>
+                     </closer>
+                     <trailer>For his honoured friend Mr. <hi>Bates</hi> of <hi>Colcheſter,</hi> this</trailer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A Letter from a young man newly out of his time to his friend for better acquaintance.</head>
+                     <opener>
+                        <dateline>London, <date>
+                              <hi>March</hi> 5 1673</date>
+                        </dateline>
+                        <salute>Reſpected Sir,</salute>
+                     </opener>
+                     <p>HAving finiſhed my ſeven years Apprentiſhip, am now entring into the world for imploy for my ſelf, and knowing my Trade depends upon acquaint<g ref="char:EOLhyphen"/>ance make bold to renew former friendſhip with you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> hoping if it lies in your power, to do me any kind<g ref="char:EOLhyphen"/>neſs therein, you will (for the love you bear to me) do your utmoſt to help me, and what you ſhall do there<g ref="char:EOLhyphen"/>in ſhall be acceptable to</p>
+                     <closer>
+                        <signed>your ſervant to command <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 span">
+                                 <desc>〈…〉</desc>
+                              </gap>
+                           </hi>
+                        </signed>
+                     </closer>
+                     <trailer>To his loving friend <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi>
+                     </trailer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="17" facs="tcp:41674:11"/>
+                     <head>A Letter from one to another for Goods which he needeth.</head>
+                     <opener>
+                        <dateline>London, <date>
+                              <hi>April</hi> 4. 1674.</date>
+                        </dateline>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>HEaring by a friend of yours, that you are ſtored with ſundry parcels of ſuch goods which I great<g ref="char:EOLhyphen"/>ly need; make bold to Eſſay a Trade with you, ſo as in a ſmall parcel to become your Chapman, my ſtock is not great, neither do I know what oppertunity I ſhall have to vend many; therefore intreat your ſend<g ref="char:EOLhyphen"/>ing but forty or fifty pounds worth, and as they prove ſhall further deal with you, the loweſt price ſend, as alſo the time of payment, and I ſhall be punctual. being</p>
+                     <closer>
+                        <signed>your loving friend <hi>Emanuel Endeavor.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To his honoured friend, Mr. <hi>Fra. Friendſhip</hi>of <hi>Famouth</hi> this</trailer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A copie of a letter from a Trader to his Chapman, with his anſwer thereto.</head>
+                     <opener>
+                        <dateline>London, <date>
+                              <hi>January,</hi> 27. 1674.</date>
+                        </dateline>
+                        <salute>Honoured friend,</salute>
+                     </opener>
+                     <p>I Sent you laſt week a parcel of Goods by your Car<g ref="char:EOLhyphen"/>rier, and do hope they are ſafe come to your hands, alſo according to your laſt dated the firſt in<g ref="char:EOLhyphen"/>ſtant have prepared the parcel of ſtuffs, and this day have ſhipped them in the <hi>Hope</hi> of <hi>London,</hi> now bound for <hi>Cales,</hi> and marked as directed, the Bill of Lading is herein encloſed, the reſt you write for ſhall ſend as ſoon as they are made ready for you. I would de<g ref="char:EOLhyphen"/>ſire you to remit me one hundred pounds with all ſpeed, No more at preſent from,</p>
+                     <closer>
+                        <signed>your <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </signed>
+                     </closer>
+                     <trailer>For his honoured friend, <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi>
+                     </trailer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="18" facs="tcp:41674:12"/>
+                     <head>The Anſwer.</head>
+                     <opener>
+                        <dateline>Exon, <date>
+                              <hi>February,</hi> 8 1674.</date>
+                        </dateline>
+                        <salute>Reſpected Sir,</salute>
+                     </opener>
+                     <p>YOurs dated the 27 of <hi>January</hi> laſt, I receiv'd, and am glad to hear you have Shipped thoſe goods to <hi>Cales:</hi> I truſt they will come to a good market. Thoſe you ſent me came ſafe, and well conditioned. I have according to your Order remitted one hundred pounds, which will be payable in ten days, the Bill of Exco. is herein encloſed with a letter of advice to Mr. <hi>Goodpay</hi> from his reſpondent, hoping the Goods you are preparing will be for my turn, and come timely. I reſt,</p>
+                     <closer>
+                        <signed>your aſſured lo: friend, <hi>John Lovely.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>For his reſpected friend Mr. <hi>Zach. Zealet</hi> of London.</trailer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>T woul'd ſwell this Volume too too large,</l>
+                  <l>And make this Book of too much charge,</l>
+                  <l>To put down Copies in all things,</l>
+                  <l>That Trade and friendſhip daily brings.</l>
+               </lg>
+               <lg>
+                  <l>Therefore a little take and ſee,</l>
+                  <l>And ſtrive for ingenuity,</l>
+                  <l>'Tis matter that will thee and I,</l>
+                  <l>Both mind, and heart, and head imploy.</l>
+                  <l>And when engag'd with all our might,</l>
+                  <l>Our buſineſs will teach to endite,</l>
+                  <l>The form being deſign'd only</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <pb n="19" facs="tcp:41674:12"/>
+                  <l>Here follows now ſome other things that may,</l>
+                  <l>Be helpful unto thee another day,</l>
+                  <l>Which take, and well improve, as is intended,</l>
+                  <l>By him that hath the whole in love commended,</l>
+                  <l>And well remember Traders ſhould be juſt,</l>
+                  <l>In buying, ſelling, wherein there is truſt.</l>
+                  <l>For God that ſees All doth a bleſſing bring,</l>
+                  <l>To ſuch that do keep faithfull in this thing,</l>
+                  <l>Rewarding them in basket and in ſtore,</l>
+                  <l>With Riches, and with Credit more and more.</l>
+                  <l>Whilſt others that herein no conſcience make,</l>
+                  <l>Have Blaſts from God in all they undertake;</l>
+                  <l>And are depriv'd of proſpering whilſt they,</l>
+                  <l>Will not juſt rules of Equity Obey,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f you therefore would thrive. Mind honeſty</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> what you ſell, as well as what you buy,</l>
+                  <l>And punctual be in paying that thats due,</l>
+                  <l>Expecting then others will ſo pay you.</l>
+                  <l>If you a Merchant be, you need know well,</l>
+                  <l>To make a Bill of Goods which you doe ſell,</l>
+                  <l>A form whereof is here prepar'd by me,</l>
+                  <l>For Help to <hi>young beginners,</hi> if need be.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="bill_of_goods">
+                  <body>
+                     <p>
+                        <list>
+                           <head>
+                              <hi>Sould July</hi> 10. 1673, <hi>to Gamaliel Grout theſe Goods following.</hi>
+                           </head>
+                           <item>59 ells of Green Bays, at 2<hi>s</hi>:5<hi>d</hi>:the ell 055<hi>l.</hi>:09<hi>s.</hi>:03<hi>d.</hi>:</item>
+                           <item>87 ells of Dyed Canvas, at 1<hi>s</hi>:5<hi>d</hi>:the ell 069<hi>l.</hi>:18<hi>s.</hi>:03<hi>d.</hi>:</item>
+                           <item>76 ells of Holland Cloth, at 4<hi>s</hi>:6<hi>d</hi>:the ell 197<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                           <item>
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>0 pieces of Fine Lawns, at 11<hi>s</hi>:6<hi>d</hi>:the ps 287<hi>l.</hi>:10<hi>s.</hi>:00<hi>d.</hi>:</item>
+                           <item>
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>9 ells of Linnen Cloth, at 2<hi>s</hi>:8<hi>d</hi> the ell 078<hi>l.</hi>:10<hi>s.</hi>:08<hi>d.</hi>:</item>
+                           <item>89 ps of Dyed Fuſtians at 19<hi>s</hi>:0<hi>d</hi> the end 559<hi>l.</hi>:11<hi>s.</hi>:00<hi>d.</hi>:</item>
+                           <item>89 ps of white Ditto, at 17<hi>s</hi>:6<hi>d</hi> the end 165<hi>l.</hi>:07<hi>s.</hi>:06<hi>d.</hi>:</item>
+                           <item>
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>9 ells of narrow cloth, at 1<hi>s</hi>:2<hi>d</hi>:the ell 015<hi>l.</hi>:02<hi>s.</hi>:02<hi>d.</hi>:</item>
+                        </list>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb n="20" facs="tcp:41674:13"/>
+               <lg>
+                  <l>The Merchant when he doeth the money take,</l>
+                  <l>He ought the paying man a diſcharge make,</l>
+                  <l>A form thereof in ſhort, yet full is here,</l>
+                  <l>Tranſcribed out, the Buying man to clear,</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <p>Receiv'd <date>the 14 of <hi>July</hi> 1673,</date> the full of this Bill, Iſay rec'd,</p>
+                     <closer>
+                        <signed>By me <hi>Hugh Humes.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>Both Shop-keepers, and Merchants do when they,</l>
+                  <l>Their goods tranſport, put off, or truck away,</l>
+                  <l>Plain Bills of parcels make, that all may ſee,</l>
+                  <l>What Goods they are, and what their prizes be.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="invoice">
+                  <body>
+                     <head>A Shop-keepers Bill.</head>
+                     <list>
+                        <head>
+                           <hi>Sould to</hi> Henry Halfgood <hi>of</hi> Harwich <hi>theſe.</hi>
+                        </head>
+                        <item>
+                           <hi>April</hi> 1. 1673, One ſmall box of Cynamon, 8<hi>l.</hi>:8<hi>s.</hi>:8<hi>d.</hi>
+                        </item>
+                        <item>
+                           <hi>May</hi> 2—One barrel of New Raiſons—3<hi>l.</hi>:3<hi>s.</hi>:3<hi>d.</hi>
+                        </item>
+                        <item>
+                           <hi>June</hi> 3—Two ſmall parcels of Pepper—2<hi>l.</hi>:5<hi>s.</hi>:7<hi>d.</hi>
+                        </item>
+                        <item>
+                           <hi>Ditto</hi> 19—Two Rolls of <hi>Virginia</hi> Tobacco—1<hi>l.</hi>:8<hi>s.</hi>:6<hi>d.</hi>
+                        </item>
+                        <item>
+                           <hi>July</hi> 13-Five Frails of <hi>Mallago</hi> Raiſons—3<hi>l.</hi>:3<hi>s.</hi>:2<hi>d.</hi>
+                        </item>
+                        <item>19—A box of Sugar-Candy weight 98 <hi>l.</hi> ½—4<hi>l.</hi>:10<hi>s.</hi>:0<hi>d.</hi>
+                        </item>
+                        <item ana="#role_TOTAL">Total Sum—22<hi>l.</hi>:19<hi>s.</hi>:2<hi>d.</hi>
+                        </item>
+                     </list>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>The Shop-keeper for ſo much he doth take,</l>
+                  <l>Doth to the Chapman a diſcharge now make,</l>
+                  <l>A Copie here now follows, writ by me,</l>
+                  <l>Some skill for you to gain, at leaſt to ſee.</l>
+               </lg>
+               <q>Receiv'd the 20 of <hi>July</hi> 1673, the ſum of eleve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pounds ten ſhillings, which is in part of payment fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Bill aboveſaid, I ſay rec'd.</q>
+               <pb n="21" facs="tcp:41674:13"/>
+               <lg>
+                  <l>With men of Trade, ſometimes need doth require,</l>
+                  <l>The ſelling man of Chapmen to deſire,</l>
+                  <l>A bill, or bond, wherein they fix a day,</l>
+                  <l>The money that is owing for to pay;</l>
+                  <l>A form of both may very helpful be,</l>
+                  <l>Therefore are made to be improv'd by thee.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="bill_of_debt">
+                  <body>
+                     <head>A ſhort Bill of Debt.</head>
+                     <p>BE it remembred by theſe preſents that I <hi>Kimbolton Kindheart</hi> of <hi>Kingſton</hi> Haberdaſher, do owe and am indebted unto <hi>Leonard Lawleſs</hi> of the ſame, Merchant, the ſum of ninety pounds of Lawfull mo<g ref="char:EOLhyphen"/>ney of <hi>England.</hi> All which I doe promiſe to pay to him, or his Order, on the tenth day of <hi>July</hi> next, </p>
+                     <closer>
+                        <dateline>In teſtimony whereof I have hereunto put my hand and Seal <date>the ſeventh of <hi>May, Anno Domini;</hi> 1674.</date>
+                        </dateline>
+                        <dateline>Sealed and delivered in the preſence of <hi>VVill. Knaveleſs. John Earle. </hi>
+                        </dateline>
+                        <signed>Kimbolton Kindheart.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="bill_of_debt">
+                  <body>
+                     <head>Another of the ſame.</head>
+                     <p>BOrrow'd and receiv'd the 23 of <hi>June</hi> 1674, of <hi>Moſes Manibates,</hi> the ſum of One hundred pounds of Lawfull money of <hi>England,</hi> which I pro<g ref="char:EOLhyphen"/>miſe to pay upon demand. </p>
+                     <closer>
+                        <dateline>
+                           <hi>Witneſs</hi> my hand and Seal <date>the day aboveſaid.</date>
+                        </dateline>
+                        <signed>Teſtis <hi>Nath. Namis.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="22" facs="tcp:41674:14"/>
+               <lg>
+                  <l>THe Bill thats laſt is good and will avail,</l>
+                  <l>VVHen unto it there is both hand and Seal,</l>
+                  <l>And 'tis much better, if to what is done,</l>
+                  <l>You have ſome it to witneſs, at leaſt one;</l>
+                  <l>Receipts to them both looked for may be,</l>
+                  <l>Therefore their copies follow as you ſee.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <head>A receipt to the firſt Bill.</head>
+                     <p>Receiv'd the tenth day of <hi>July</hi> 1674, of <hi>Kimbol<g ref="char:EOLhyphen"/>ton Kindheart,</hi> the ſum of ninety pounds; being for ſo much due by a Bill of debt bearing date the ſeventh of <hi>May</hi> laſt. I ſay receiv'd.</p>
+                     <closer>
+                        <signed>By me <hi>Leo. Lawleſs.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <head>A receipt to the ſecond.</head>
+                     <p>Receiv'd the firſt of <hi>Auguſt</hi> 1674, of <hi>Nath. Nam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> the ſum of one hundred pounds, which was due by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Bill of Debt, bearing date the 23 of <hi>June</hi> laſt, I ſay receiv'd.</p>
+                     <closer>
+                        <signed>By me <hi>Moſes Mani-bate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>Now next that doth preſent it ſelf to thee,</l>
+                  <l>Is an example how a Bond ſhould be,</l>
+                  <l>Made ſo Authentick, as that binding may,</l>
+                  <l>Enforce the Debtor, the juſt Sum to pay.</l>
+               </lg>
+               <lg>
+                  <l>Moſt Obligations are in Latin made;</l>
+                  <l>And ſo ſhould this, but that it will be ſaid,</l>
+                  <l>This little Book is made for ſuch chiefly,</l>
+                  <l>That can the Engliſh tongue only apply;</l>
+                  <l>Therefore in Engliſh it is made for thee,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <pb n="23" facs="tcp:41674:14"/>
+               <floatingText xml:lang="eng" type="bond">
+                  <body>
+                     <div type="part">
+                        <p>
+                           <hi>KNow all men by theſe preſents that I</hi> Oliver Owen <hi>of</hi> Oldſtreet <hi>in the County of</hi> Midle<g ref="char:EOLhyphen"/>ſex <hi>Oyl-man, am holden, and firmly doe ſtand bound unto</hi> Peter Pierce <hi>of</hi> Pembrook <hi>Painter, in ninety pounds of good and lawful money of</hi> England, <hi>to be paid unto the ſaid</hi> Peter Pierce, <hi>his certain Attorney, his Executors, or Admini<g ref="char:EOLhyphen"/>ſtrators. To the which payment well and truly to be made, I binde my ſelf, my Executors, and Adminiſtrators firmly by theſe preſents, ſealed with my Seal, dated the tenth of September,</hi> 1674.</p>
+                     </div>
+                     <div type="part">
+                        <p>THe condition of this Obligation is ſuch that if the above bounden <hi>Oliver Owen,</hi> his Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators, or any of them, doe well and truly pay or cauſe to be paid unto the above named <hi>Petor Pierce,</hi> his Executors, Adminiſtrators, or Aſſigns the juſt ſum of forty five pounds of like lawfull money, at, or on the tenth day of <hi>October</hi> next coming; at, or in the now dwelling-houſe of the ſaid <hi>Peter Pierce,</hi> 
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſcituate in <hi>Pembrook</hi> aforeſaid, without fraudor deceit, then this Obligation ſhall be void, elſe the ſame to ſtand, and remain in full force effect and vertue.</p>
+                     </div>
+                     <closer>
+                        <dateline>Sealed and delivered in the preſence of Zachariah Ving Ambroſe Pain, <hi>Scr.</hi>
+                        </dateline>
+                        <signed>Oliver Owen.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>When Bond, or Bill, is ſign'd and ſeal'd, it muſt be delivered as his Act and deed, to the party whom tis made, or to ſome other for his uſe, And all in the ſight and view of the witneſſes.</p>
+               <pb n="24" facs="tcp:41674:15"/>
+               <lg>
+                  <l>Now you have ſeen a form of Bond, and Bill,</l>
+                  <l>You may accept from Debtor what you will,</l>
+                  <l>But in my judgment a Bond is moſt ſure,</l>
+                  <l>Seal'd before witneſs that may long endure;</l>
+                  <l>For Bonds with double penalty are made,</l>
+                  <l>VVhen nothing in a Bill of that is ſaid,</l>
+                  <l>And by a Bond thy ſuit charge ſhalt recover,</l>
+                  <l>But nothing of thy charges by the other.</l>
+                  <l>VVherefore if Debtor may uncertain be,</l>
+                  <l>In paying when tis due, if thou can'ſt ſee,</l>
+                  <l>Before hand what thy lot in this caſe may,</l>
+                  <l>Chuſe and accept a Bond without delay;</l>
+                  <l>In all thou doeſt deal with an honeſt man,</l>
+                  <l>And hee I pay on the day if that he can,</l>
+                  <l>And when the money due by Bond is paid,</l>
+                  <l>It is moſt ſure a diſcharge then be made,</l>
+                  <l>A copy therefore is now writ below,</l>
+                  <l>The paying man at that time for to ſhow.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <p>REceiv'd the 10th. of <hi>October</hi> 1674, of <hi>Oliver Owen</hi> the ſum of forty five pounds, being for ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> much due by a bond Obligatory, bearing date the tenth of <hi>September</hi> laſt, wherein the ſaid <hi>Oliver Owen</hi> became bound to me in penalty of ninety pounds con<g ref="char:EOLhyphen"/>ditioned for the true payment of forty five pounds the day aboveſaid; I ſay recd. in full ſatisfaction of the aforeſaid bond.</p>
+                     <closer>
+                        <signed>By me <hi>Peter Pierce.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>In commerce and in trade men uſe this way,</l>
+                  <l>By Exchange Bills much money for to pay,</l>
+                  <l>Some copies therefore here are, for thee made,</l>
+                  <l>VVhich may be uſeful in the way of Trade.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="inland_bill">
+                  <body>
+                     <pb n="25" facs="tcp:41674:15"/>
+                     <head>A copie of an Inland Bill.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>
+                              <hi>October,</hi> 28. 1674.</date>
+                        </dateline>
+                     </opener>
+                     <p>AT ten days ſight of this my onely Bill of Exco. Pay to Mr. <hi>Richard Ruley</hi> of <hi>Rutland,</hi> or his order, the ſum of one hundred pounds currant money, for the value here receiv'd of Mr. <hi>Jonathan Bates:</hi> Make good payment thereof, and put it to the accompt of</p>
+                     <closer>
+                        <signed>your obliged friend, <hi>Simon Simſon.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To his honoured Mr. <hi>Quintilian Quelch</hi> of <hi>Rutland</hi> this</trailer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>VVhen this Bill comes to hand, he doth it ſhow,</l>
+                  <l>Unto the paying man his mind to know,</l>
+                  <l>Which if he likes, he then acceptance makes,</l>
+                  <l>And when tis paid, he a diſcharge then takes,</l>
+                  <l>VVithout ſide of the Bill him for to clear,</l>
+                  <l>The form thereof, doth plainly here appear.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <p>Receiv'd <date>the 10. of <hi>November</hi> 1674,</date> the full of the within Bill of Exchange, I ſay receiv'd.</p>
+                     <closer>
+                        <signed>By me <hi>Richard Rules.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>Here follows others which may inform thee,</l>
+                  <l>How Outland Bills alſo may written be.</l>
+               </lg>
+               <p>The diſcharge to that may ſhew thee how to make one to any other Bill of Exco. they be<g ref="char:EOLhyphen"/>ing all to that effect, and writ on the back-ſide of the Bill, as before is ſaid.</p>
+               <floatingText xml:lang="eng" type="outland_bill">
+                  <body>
+                     <pb n="26" facs="tcp:41674:16"/>
+                     <head>An Outland Bill, the firſt ſent.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>
+                              <hi>November,</hi> 3. 1674.</date> 
+                           <hi>for</hi> 500 <hi>crowns at</hi> 60 <hi>ſols per crown.</hi>
+                        </dateline>
+                     </opener>
+                     <p>AT double uſance, Pay this my firſt Bill of Ex<g ref="char:EOLhyphen"/>change, unto Mr. <hi>Iſaac Delawn,</hi> or order five hundred crowns at ſixty ſols per crown, for the value receiv'd of Mr. <hi>John King,</hi> and place it to accompt as per advice from</p>
+                     <closer>
+                        <signed>yours, <hi>Will. Walwin.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To Mr. <hi>John Ducayn</hi> Merchant in<hi>Paris</hi> Prima.</trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="outland_bill">
+                  <body>
+                     <head>The Second Bill.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>
+                              <hi>November</hi> 14. 1674,</date> 
+                           <hi>for</hi> 500 <hi>crowns at</hi> 60 <hi>ſols per crown.</hi>
+                        </dateline>
+                     </opener>
+                     <p>AT double uſance, pay this my ſecond Bill of Ex<g ref="char:EOLhyphen"/>change, my firſt not paid, unto Mr. <hi>Iſaac De<g ref="char:EOLhyphen"/>lawn,</hi> or order, five hundred crowns, at ſixty ſols per crown, for the value received here of Mr. <hi>John King,</hi> and place it to accompt as per advice, from</p>
+                     <closer>
+                        <signed>yours, <hi>Will. Walwin.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>For Mr. <hi>John Ducayn</hi> Merchant in <hi>Paris.</hi> Secunda</trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="outland_bill">
+                  <body>
+                     <pb n="27" facs="tcp:41674:16"/>
+                     <head>
+                        <hi>Another Bill of Exchange for</hi> Amſterdam.</head>
+                     <head type="sub">A copie of the firſt Bill.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>
+                              <hi>March</hi> 27. 1674.</date> 
+                           <hi>for</hi> 200 <hi>l. ſterl. at</hi> 34 <hi>s.</hi> 4 <hi>d. fl. per l. ſt.</hi>
+                        </dateline>
+                     </opener>
+                     <p>AT double uſance, Pay this my firſt Bill of Ex<g ref="char:EOLhyphen"/>change unto Mr. <hi>Roger Rumpe,</hi> or order, two hundred pounds ſterling, at thirty four ſhillings four pence fle. <hi>per</hi> pound ſt. for the value of <hi>William Wills,</hi> and place it to accompt as <hi>per</hi> advice from</p>
+                     <closer>
+                        <signed>yours <hi>Henry Hills.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To Mr. <hi>John Jones</hi> Merchant in <hi>Amſterdam</hi> Prima</trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="outland_bill">
+                  <body>
+                     <head>A copie of the ſecond Bill of Exchange.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>
+                              <hi>March</hi> 27. 1674.</date> 
+                           <hi>for</hi> 200 <hi>l. ſterl. at</hi> 34 <hi>s.</hi> 4 d. <hi>fl. per l. st.</hi>
+                        </dateline>
+                     </opener>
+                     <p>AT double uſance, Pay this my ſecond Bill of Ex<g ref="char:EOLhyphen"/>change, my firſt not paid, unto Mr. <hi>Roger Rumpe,</hi> or order, two hundred pounds ſterling, at thirty four ſhillings four pence fl. <hi>per l.</hi> ſt. for the value of <hi>William Wills,</hi> and place it to accompt as <hi>per</hi> advice from</p>
+                     <closer>
+                        <signed>yours <hi>Henry Hills.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To Mr. <hi>John Jones</hi> Merchant in <hi>Amſterdam</hi>
+                     </trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="outland_bill">
+                  <body>
+                     <pb n="28" facs="tcp:41674:17"/>
+                     <head>
+                        <hi>Another copie of a Bill of Exchange for</hi> Livorne.</head>
+                     <head type="sub">
+                        <hi>The firſt Bill,</hi>
+                     </head>
+                     <opener>
+                        <dateline>
+                           <hi>London adii</hi> 
+                           <date> the 25th. <hi>March</hi> 1674,</date> 
+                           <hi>for</hi> 500 <hi>l. at</hi> 53 <hi>d.</hi> ¼. <hi>ſt. per doller.</hi>
+                        </dateline>
+                     </opener>
+                     <p>THree moneths after date, pay this my firſt Bill of Exchange, unto Mr. <hi>John Jakes,</hi> or order, five hundred Dollers Exco. at fifty three pence ¼ ſter<g ref="char:EOLhyphen"/>ling <hi>per</hi> doller, for the value of himſelf, and place it to accompt as <hi>per</hi> advice from</p>
+                     <closer>
+                        <signed>yours <hi>Peter Pimpillon.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To Mr. William Jednings Merchant in <hi>Livorne.</hi> Pma</trailer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="outland_bill">
+                  <body>
+                     <head>The ſecond Bill.</head>
+                     <opener>
+                        <dateline>
+                           <hi>London adii</hi> 
+                           <date> the 25 <hi>March,</hi> 1674</date>
+                        </dateline>
+                     </opener>
+                     <p>THree Moneths after date, pay this my ſecond bill of Exchange, my firſt not paid, unto Mr. <hi>John Jakes,</hi> or order, five hundred dollers Exco. at fifty three pence ¼ ſterling <hi>per</hi> doller, for the value of him<g ref="char:EOLhyphen"/>ſelf, and place it to accompt as <hi>per</hi> advice from,</p>
+                     <closer>
+                        <signed>yours <hi>Peter Pimpillon.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To Mr. William Jednings Merchant in <hi>Livorne</hi>
+                     </trailer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:41674:17"/>
+               <argument>
+                  <lg>
+                     <l>Some men of Handicrafts, may this book ſee</l>
+                     <l>Therefore for them ſome Bills prepared be.</l>
+                  </lg>
+               </argument>
+               <floatingText xml:lang="eng" type="bill">
+                  <body>
+                     <head>A Carpenters Bill.</head>
+                     <list>
+                        <head>Mr. <hi>William Liberal</hi> Dr. for work and materials.</head>
+                        <item>FOr 17 load of Oaken timber at 42 <hi>s.</hi> the Load 35<hi>l.</hi>:14<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 28 load of Fur-timber at 35 <hi>s.</hi> the load, 49<hi>l.</hi>:00<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 180 feet of Oaken Plank two—inches thick at 3<hi>d.</hi> the foot 02<hi>l.</hi>:05<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 17 thouſ. of 10 <hi>d</hi> nails at 6 <hi>s.</hi> the thouſ. 05<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 700 ½ of deals, at 6 <hi>l.</hi> 5 <hi>s.</hi> the hundred, 46<hi>l.</hi>:17<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>For 19 thouſ. of 6 <hi>d.</hi> nails, at 4 <hi>s.</hi> 4 <hi>d.</hi> the th. 04<hi>l.</hi>:02<hi>s.</hi>:04<hi>d.</hi>:</item>
+                        <item>For 7½ thouſ. of dou. tens, at 10 <hi>s.</hi> the thouſ. 03<hi>l.</hi>:15<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 700 of ten-groat nails, at 3 <hi>s.</hi> 4 <hi>d.</hi> the 100 01<hi>l.</hi>:03<hi>s.</hi>:04<hi>d.</hi>:</item>
+                        <item>For 28 pound of large ſpikes, at 4 <hi>d.</hi> the <hi>l.</hi> 00<hi>l.</hi>:09<hi>s.</hi>:04<hi>d.</hi>:</item>
+                        <item>For 8 ½ weeks work for my ſelf, at 3 <hi>s.</hi> the day 07<hi>l.</hi>:13<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 8 weeks 2 days work for my man, at 2 <hi>s.</hi> 6 <hi>d.</hi> the day 06<hi>l.</hi>:05<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item ana="#role_TOTAL">Sum is 162<hi>l.</hi>:06<hi>s.</hi>:06<hi>d.</hi>:</item>
+                     </list>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>VVhen this Bill's paid, the Carpenter muſt make,</l>
+                  <l>A full diſcharge for what he then doth take,</l>
+                  <l>It being his good hap all to receive,</l>
+                  <l>He doth with thanks a full diſcharge then give,</l>
+                  <l>A copie here you'l find prepar'd by me,</l>
+                  <l>For to teach you how a diſcharge ſhould be.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <pb n="30" facs="tcp:41674:18"/>
+                     <p>Receiv'd the 7 of <hi>January</hi> 1674, of Mr. <hi>William Liberal</hi> the ſum of one hundred ſixty two pounds and ſix ſhillings, which is in full of the Bill aforeſaid, I ſay receiv'd.</p>
+                     <closer>
+                        <signed>by me <hi>Xeno Xanthos.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="bill">
+                  <body>
+                     <head>A Bricklayers Bill.</head>
+                     <list>
+                        <head>
+                           <hi>Mr.</hi> Yelverton Yewel <hi>of</hi> London Dr. <hi>for work and materials.</hi>
+                        </head>
+                        <item>For 12 thouſ. of bricks at 12 <hi>s.</hi> 6 <hi>d.</hi> the th. 07<hi>l.</hi>:10<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 8 thouſand of Tiles, at 18 <hi>s.</hi> 6 <hi>d.</hi> the th. 07<hi>l.</hi>:08<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 17 hund. of Lyme, at 14 <hi>s.</hi> 6 <hi>d.</hi> the hun. 12<hi>l.</hi>:06<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>For 15 load of Sand, at 4 <hi>s.</hi> 8 <hi>d.</hi> the load, 03<hi>l.</hi>:10<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 1000 of Nine-inch Tiles, at 10 <hi>s.</hi> 6 <hi>d.</hi> the hundred 5<hi>l.</hi>:05<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 40 ridge-Tiles, at 1 <hi>d.</hi> ¾ the peice, 00<hi>l.</hi>:05<hi>s.</hi>:10<hi>d.</hi>:</item>
+                        <item>For 3 weeks 3 dayes work for my ſelf, at 3 <hi>s.</hi> the day 03<hi>l.</hi>:03<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>For 27 dayes ½ for my man at 2 <hi>s.</hi> 6 <hi>d.</hi> the day 03<hi>l.</hi>:08<hi>s.</hi>:09<hi>d.</hi>:</item>
+                        <item>For a labourer 27 days ¼ at 1 <hi>s.</hi> 8 <hi>d.</hi> the day 02<hi>l.</hi>:05<hi>s.</hi>:05<hi>d.</hi>:</item>
+                        <item ana="#role_TOTAL">Sum is 45<hi>l.</hi>:02<hi>s.</hi>:06<hi>d.</hi>:</item>
+                     </list>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>The Bricklayer doth alſo his whole Bill take,</l>
+                  <l>Therefore a full diſcharge he doth then make,</l>
+                  <l>No copie here is needed, but the ſame,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the ſum and name</l>
+               </lg>
+               <floatingText xml:lang="eng" type="bill">
+                  <body>
+                     <pb n="31" facs="tcp:41674:18"/>
+                     <head>A Smiths Bill may thus be made.</head>
+                     <list>
+                        <head>
+                           <hi>Mr.</hi> Zach. Zinthos <hi>of London his Bill.</hi>
+                        </head>
+                        <item>
+                           <hi>Feb.</hi> 21. 1674, Two great Bars for the Chimney, 01<hi>l.</hi>:18<hi>s.</hi>:08<hi>d.</hi>:</item>
+                        <item>26. Three great bolts for the doors, 00<hi>l.</hi>:05<hi>s.</hi>:10<hi>d.</hi>:</item>
+                        <item>
+                           <hi>Mar.</hi> 19, One ſtock-lock for the outw. door, 0<hi>l.</hi>:12<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>the 27, 1675. Four pair of large hinges, 01<hi>l.</hi>:18<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>the 30, For mending the Jack 00<hi>l.</hi>:03<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>For one Fire-ſhovel with Grates 00<hi>l.</hi>:11<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>April</hi> 13. For one very large fire-fork 00<hi>l.</hi>:08<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>19. For 3 ſpits and a pair of Ranges 01<hi>l.</hi>:10<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>23. For 30 large Hooks &amp; 10 ſtaples, 00<hi>l.</hi>:05<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item ana="#role_TOTAL">07<hi>l.</hi>:13<hi>s.</hi>:08<hi>d.</hi>:</item>
+                     </list>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>The Smiths bad fortune is but half to take,</l>
+                  <l>And therefore a diſcharge in part doth make,</l>
+                  <l>The which becauſe it differs from the other,</l>
+                  <l>We do a copie for it here diſcover.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <head>An acquittance on the back-ſide of the bill.</head>
+                     <p>Receiv'd <hi>May</hi> 29 1675, of Mr. <hi>Zacheus Zinthos,</hi> the ſum of three pounds ſixteen ſhillings, being in part of payment of the within written Bill, I ſay receiv'd.</p>
+                     <closer>
+                        <signed>By me <hi>William Smith.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>When he the reſt receives he then doth make,</l>
+                  <l>A full diſcharge, a copie you may take.</l>
+               </lg>
+               <q>
+                  <p>Receiv'd the laſt of <hi>March</hi> 1676, of Mr. <hi>Zinthos,</hi> the ſum of three pounds ſeventeen ſhillings, being for work done for him in 74, and 75, as <hi>per</hi> bill, I ſay receiv'd in full of that Bill.</p>
+               </q>
+               <pb n="32" facs="tcp:41674:19"/>
+               <lg>
+                  <l>The Tailors uſe is thus a Bill to make,</l>
+                  <l>Therefore their form I ſhall not ſtrive to break.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="bill">
+                  <body>
+                     <list>
+                        <head>Mr. <hi>James Nichols</hi> his Bill.</head>
+                        <item>
+                           <hi>For</hi> 4 yards of Broad-cloth at 13<hi>s.</hi> 6 <hi>d.</hi> the yard, 2<hi>l.</hi>:14<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> making your ſuit and Coat 0<hi>l.</hi>:12<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Canvis, for ſtaies, and ſtiffening, 0<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Silk and Galloon 0<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> 16 dozen of Buttons, at 5 <hi>s.</hi> the dozen &amp; loop-lace 4<hi>l.</hi>:00<hi>s.</hi>:02<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Body &amp; ſleeve linings for your doublet, 0<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Cottening for the Hoſe and Pockets 0<hi>l.</hi>:03<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Belly-pieces, Collar, hooks, eyes,—and ſtay Tape 0<hi>l.</hi>:01<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Tabby for lining the Coat, 1<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> fine drawing the Coat 0<hi>l.</hi>:02<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> making your Bruſſel Camlet Cloak 0<hi>l.</hi>:06<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Silk and Canvis for the Cape 0<hi>l.</hi>:01<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> 6 yards of ſhalloon to line the Cloak at 2 <hi>s.</hi> the yard comes to 0<hi>l.</hi>:12<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> a ſet of Silver and Gold buttons of the beſt ſort 1<hi>l.</hi>:04<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> a neck loop for the Cloak 0<hi>l.</hi>:00<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> ſcizing the Flap 0<hi>l.</hi>:00<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item ana="#role_TOTAL">Total ſum 11<hi>l.</hi>:05<hi>s.</hi>:02<hi>d.</hi>:</item>
+                     </list>
+                     <p>Receiv'd the 21 of <hi>November</hi> 1673, the ſum o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> eleven pounds in full of this Bill, I ſay receiv'd.</p>
+                     <closer>
+                        <signed>By me <hi>Geo. Slow.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="bill">
+                  <body>
+                     <pb n="33" facs="tcp:41674:19"/>
+                     <head>Another Taylors Bill.</head>
+                     <list>
+                        <head>Mris. <hi>Sarah Phoach</hi> her Bill.</head>
+                        <item>
+                           <hi>For</hi> making your Silk-gown laced 00<hi>l.</hi>:15<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> ſtayes for the ſame 00<hi>l.</hi>:05<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Silk and Galloon 00<hi>l.</hi>:01<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> ſleeve and body linings 00<hi>l.</hi>:01<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> black Callico to lay under the body and ſleeves 00<hi>l.</hi>:01<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Ribboning to the Gown 00<hi>l.</hi>:01<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> making your Petticoat richly laced 00<hi>l.</hi>:05<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> Bordering, binding, ſilk and Pockets <hi>l.</hi>:<hi>s.</hi>: <hi>d.</hi>:</item>
+                        <item ana="#role_TOTAL">Total ſum 01<hi>l.</hi>:13<hi>s.</hi>:06<hi>d.</hi>:</item>
+                     </list>
+                     <p>Receiv'd the 4 of <hi>December</hi> 1674 of Mris <hi>Sarch Phoach,</hi> by the hands of her maid ſervant, <hi>Elizabeth Goodworker,</hi> the ſum of twenty nine ſhillings in full of this bill, I ſay receiv'd 01<hi>l.</hi>;09<hi>s.</hi>;00<hi>d.</hi>;</p>
+                     <closer>
+                        <signed>By me <hi>William Nimble.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>You there may ſee two Taylors bills at large,</l>
+                  <l>Both paid, and therefore to each a diſcharge,</l>
+                  <l>VVhich may teach you how a receipt to make,</l>
+                  <l>Although you ſhould not all the whole ſum take.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="bill">
+                  <body>
+                     <pb n="34" facs="tcp:41674:20"/>
+                     <head>Here follows a Shoemakers bill.</head>
+                     <list>
+                        <head>
+                           <hi>Mr.</hi> Lowmer Lowns <hi>his bill Novemb,</hi> 30. 1674,</head>
+                        <item>
+                           <hi>For</hi> 3 pair of Mens ſhoes, at 4<hi>s.</hi>:4<hi>d.</hi> the pair, 00<hi>l.</hi>:13<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> 4 pair of womens ſhoes, at 2<hi>s.</hi>:8<hi>d.</hi> the pair, 0<hi>l.</hi>:10<hi>s.</hi>:08<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> one pair of large waxed boots, 01<hi>l.</hi>:04<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> 1 pair of womens laced ſhoes &amp; ſlaps 00<hi>l.</hi>:09<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> one pair of cloth ſhoes and goloſhes with ferry boats 00<hi>l.</hi>:09<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> vamping and waxing a pair of boots 00<hi>l.</hi>:06<hi>s.</hi>:06<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> 13 dozen of wooden heel ſhoes, at 30 <hi>s.</hi> the dozen 19<hi>l.</hi>:10<hi>s.</hi>:00<hi>d.</hi>:</item>
+                        <item>
+                           <hi>For</hi> a pair of ſhaſhoons for boots 00<hi>l.</hi>:01<hi>s.</hi>:08<hi>d.</hi>:</item>
+                        <item ana="#role_TOTAL">Sum is 23<hi>l.</hi>:05<hi>s.</hi>:04<hi>d.</hi>:</item>
+                     </list>
+                     <p>Receiv'd the 19 of <hi>January</hi> 1674 of Mr. <hi>Lowns</hi> the full of this bill, I ſay receiv'd 23<hi>l.</hi>:05<hi>s.</hi>:04<hi>d.</hi>:</p>
+                     <closer>
+                        <signed>By me <hi>John Cordwainer,</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>One thing yet follows more that needful is,</l>
+                  <l>That all ſhould carefull be they it not miſs,</l>
+                  <l>And that is true diſcharges for their rent,</l>
+                  <l>VVhen a full quarter is run out and ſpent,</l>
+                  <l>Leaſt they do pay to ſuch that tis not due,</l>
+                  <l>And ſo the rightful landlord do them ſue,</l>
+                  <l>There being many times much trouble when,</l>
+                  <l>The claiming Landlords are not honeſt men.</l>
+                  <pb n="35" facs="tcp:41674:20"/>
+                  <l>VVherefore when you your rent do pay,</l>
+                  <l>See that you keep this rule alway,</l>
+                  <l>To take diſcharge from Landlords ſure,</l>
+                  <l>And in ſuch ſort that may endure;</l>
+                  <l>If to the quarter day you have,</l>
+                  <l>Clear'd all that the Landlord doth crave;</l>
+                  <l>See that he make his writing ſo,</l>
+                  <l>As is the form of this below.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="rent_receipt">
+                  <body>
+                     <p>Receiv'd the 3 of <hi>December</hi> 1675; of <hi>Valentine Veaſe,</hi> the ſum of fifty five <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hillings, which is for a quarters rent for his dwelling-houſe, due at Michaelmas laſt, I ſay receiv'd, in full to that day. LV. <hi>s.</hi>
+                     </p>
+                     <closer>
+                        <signed>by me <hi>William Wilſon.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="rent_receipt">
+                  <body>
+                     <head>A receipt for Rent in part.</head>
+                     <p>Receiv'd the 12 of <hi>January</hi> 1673 of VViddow <hi>Lamey</hi> ten ſhillings, which is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n part of payment for a quarters rent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or her dwelling-houſe, due at <hi>Chriſtmas</hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſt, I ſay receiv'd 10 <hi>s.</hi>
+                     </p>
+                     <closer>
+                        <signed>By me <hi>Zachariah Zanthos.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText xml:lang="eng" type="rent_receipt">
+                  <body>
+                     <head>If for houſe and land thus.</head>
+                     <p>Receiv'd the 22 of <hi>August</hi> 1673, of <hi>A. B.</hi> the ſum of nineteen pounds, be<g ref="char:EOLhyphen"/>ing for a quarters rent for his dwelling-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ouſe, with ſundry parcels of land there<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nto adjoining, which he now holds by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſe from me, due at Midſummer day <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſt paſt. I ſay receiv'd 19 <hi>l.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb n="36" facs="tcp:41674:21"/>
+               <floatingText xml:lang="eng" type="rent_receipt">
+                  <body>
+                     <head>An acquittance from one that receives rent by vertue of an order from the Landlord.</head>
+                     <p>Receiv'd the 28 of <hi>April</hi> 1674, of <hi>Richard Rowls</hi> the ſum of ten pounds, which is for a years rent for his dwell<g ref="char:EOLhyphen"/>ing houſe, due laſt Lady day, I ſay rec'd for the uſe, and by the ſpecial order and appointment of my Mr. <hi>John Peaceable</hi> Eſquire — 10 <hi>l.</hi>
+                     </p>
+                     <closer>
+                        <signed>By me <hi>John Yoman.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>It is contentment to moſt men,</l>
+                  <l>accompts oft for to clear,</l>
+                  <l>And with exactneſs by their pen,</l>
+                  <l>The ſum to make appear;</l>
+                  <l>And when the Balance 'tween them both,</l>
+                  <l>is fully ſatisfied,</l>
+                  <l>They do a full diſcharge then make,</l>
+                  <l>that they long friends may bide,</l>
+                  <l>True copies therefore here are made,</l>
+                  <l>for both of them to make;</l>
+                  <l>And to prevent all future claims,</l>
+                  <l>each from the other take.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <head>A copie of a full diſcharge.</head>
+                     <p>Receiv'd the ninth day of <hi>October,</hi> 1674, of Mr. <hi>Leonard Fair-dealer,</hi> the ſum of ninety pounds thirteen ſhillings, being for ſo much due upon accompt, &amp; is in full of all reckonings, dues, debts, ac<g ref="char:EOLhyphen"/>compts and demands whatſoever to the day aboveſaid — 90: <hi>l.</hi> 13. <hi>s.</hi> 0<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>d.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb n="37" facs="tcp:41674:21"/>
+               <floatingText xml:lang="eng" type="receipt">
+                  <body>
+                     <head>Another of the ſame.</head>
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>October,</hi> 9 1674.</date>
+                        </dateline>
+                     </opener>
+                     <p>Receiv'd then of Mr. <hi>James Peaceable</hi> upon accompt, two hundred pounds, be<g ref="char:EOLhyphen"/>ing for goods ſold him at ſundry times, And is in full of all accompts, reckonings Bonds, Bills, Debts, Dues and Demands whatſoever, from the beginning of the world unto the day aboveſaid, I ſay rec'd the ſum aforeſaid — 200 <hi>l.</hi>
+                     </p>
+                     <closer>
+                        <signed>By me <hi>Leo. Fair-dealer.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>For to confirm a full diſcharge we do,</l>
+                  <l>Adviſe, a ſeal may be put thereunto,</l>
+                  <l>And if a witneſs may be gain'd t'would be,</l>
+                  <l>Much more authentick to Poſterity.</l>
+               </lg>
+               <lg>
+                  <l>When troubles and Law ſuits ariſe,</l>
+                  <l>Betwixt men in their Trade,</l>
+                  <l>And by the Law or Equity,</l>
+                  <l>good friends again are made;</l>
+                  <l>The ſafeſt way to keep them ſo,</l>
+                  <l>is ſuch Writings to make;</l>
+                  <l>As may non ſuit the claiming man,</l>
+                  <l>when he a courſe doth take;</l>
+                  <l>A general diſcharge therefore,</l>
+                  <l>is requiſite to be,</l>
+                  <l>Made and confirm'd between them both,</l>
+               </lg>
+               <floatingText xml:lang="eng" type="quit-claim">
+                  <body>
+                     <pb n="38" facs="tcp:41674:22"/>
+                     <head>A copie of a general Releaſe.</head>
+                     <p>KNow all men by theſe preſents, That I <hi>Peter Make-bate</hi> of <hi>Muntham</hi> in the County of <hi>Kent</hi> Mercer, have remiſed, releaſed, and for ever quit<g ref="char:EOLhyphen"/>claimed; and by theſe Preſents do for me, my heirs; Executors, and Adminiſtrators remiſe, releaſe, and for ever abſolutely quit-claim unto <hi>John Quiet</hi> of the City of <hi>Weſtminſter</hi> Taylor, his Heirs, Executors, and Adminſtrators, all, and all manner of Actions, Cauſe and cauſes of Actions, Suits, Bills, Bonds, Writings Obligatory, Debts, Dues, Duties, Accompts, ſum, and ſums of money, Judgments, Executions, Extents, Quarrels, Controverſies, Treſpaſſes, Damages, and demands whatſoever, both in Law and Equity, or otherwiſe howſoever; which againſt the ſaid <hi>John Quiet,</hi> I ever had, now have, or which I, my Heirs, Executors, and Adminiſtrators, ſhall or may have, claim, challenge, or demand, for, or by reaſon of any matter, cauſe or thing, from the beginning of the World unto the day of the date of theſe preſents. In witneſs whereof I have hereunto put my hand and Seal, this firſt day of <hi>April, Anno Domini,</hi> 1674.</p>
+                     <closer>
+                        <dateline>Sealed and delivered in the preſence of <hi>Ambroſe Obſerver Benja. True-heart,</hi> Scr.</dateline>
+                        <signed>Peter Make-bait.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The like ſhould <hi>John Quiet</hi> ſign, ſeal, and deliver unto <hi>Peter Make-bait,</hi> to prevent fu<g ref="char:EOLhyphen"/>ture controverſie and trouble.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="glossary_of_hard_words">
+            <pb n="39" facs="tcp:41674:22"/>
+            <head>An Alphabetical Table.</head>
+            <list>
+               <item>ABandon, put away.</item>
+               <item>Abaſe, bring low.</item>
+               <item>Abet, to maintain.</item>
+               <item>ABel, the ſecond ſon of Adam.</item>
+               <item>Able, ſufficient.</item>
+               <item>abſolute, without excep<g ref="char:EOLhyphen"/>tion.</item>
+               <item>Abreviate, to ſhorten.</item>
+               <item>abortive, a child born be<g ref="char:EOLhyphen"/>fore its time.</item>
+               <item>abrupt, diſorder, out of frame.</item>
+               <item>abrupt, diſorderly.</item>
+               <item>Abſolve, to quit, free, for<g ref="char:EOLhyphen"/>give.</item>
+               <item>abſurd, againſt reaſon.</item>
+               <item>acute, quick, witty.</item>
+               <item>accurate, exact, curious.</item>
+               <item>Atchieve, to get the up<g ref="char:EOLhyphen"/>perhand.</item>
+               <item>Atchieved, obtain'd the conqueſt.</item>
+               <item>obſolete, of uſe.</item>
+               <item>acceptance, entertainment</item>
+               <item>accidence, introduction to Grammar.</item>
+               <item>accident, change.</item>
+               <item>incident, ſubject to caſu<g ref="char:EOLhyphen"/>alty.</item>
+               <item>account, eſteem.</item>
+               <item>Achor, a valley.</item>
+               <item>Acorn, that grows on Oaks,</item>
+               <item>Acre of land, 160 Pole.</item>
+               <item>Adage, a proverb, an old ſaying.</item>
+               <item>
+                  <hi>Adopt,</hi> to make one his heir.</item>
+               <item>addicted, devoted.</item>
+               <item>adult, grown to full years.</item>
+               <item>alias, otherwiſe.</item>
+               <item>All, all things.</item>
+               <item>Awl the ſhoe-makers <hi>awl.</hi>
+               </item>
+               <item>Ale, to drink.</item>
+               <item>ail, ſome trouble.</item>
+               <item>alley a narrow paſſage.</item>
+               <item>ally, aſſociate.</item>
+               <item>aloud, when one ſpeaks ſo.</item>
+               <item>Allowed, approved.</item>
+               <item>Altar, on which they ſa<g ref="char:EOLhyphen"/>crifice.</item>
+               <item>alter, to change,</item>
+               <item>annual, yearly.</item>
+               <item>Annal, Chronocle.</item>
+               <item>arrows, to ſhoot with.</item>
+               <item>arrowſe, to ſtir up.</item>
+               <item>arraſs, rich cloth.</item>
+               <item>harraſs, to toil.</item>
+               <pb n="40" facs="tcp:41674:23"/>
+               <item>Aſtronomy, art of Coele<g ref="char:EOLhyphen"/>ſtial bodies.</item>
+               <item>aſcent, a going upwards.</item>
+               <item>Aſs, a dull beaſt.</item>
+               <item>aſh, a tree.</item>
+               <item>ask, to enquire.</item>
+               <item>Aſp, a ſerpent.</item>
+               <item>Haſp, to faſten the door.</item>
+               <item>Ax, to cut with.</item>
+               <item>acts, great deeds.</item>
+               <item>Ant, a piſmire.</item>
+               <item>Aunt, mothers ſiſter.</item>
+               <item>arrant, very,</item>
+               <item>errand, buſineſs one goes on.</item>
+               <item>attach, to take hold of a body.</item>
+               <item>Athieſme, denying the Godhead.</item>
+               <item>attaint, to corrupt.</item>
+               <item>Attaque, to face about in a ſea-fight.</item>
+               <item>auſtere, a fierce grim man</item>
+               <item>Oyſter, a fiſh.</item>
+               <item>attentive, to give diligent heed.</item>
+               <item>audacity, boldneſs.</item>
+               <item>augre, a Piercer.</item>
+               <item>augment, encreaſe.</item>
+               <item>authentick, undoubted au<g ref="char:EOLhyphen"/>thority.</item>
+               <item>awry, to go awry.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Bable, a toy.</item>
+               <item>Babel confuſion</item>
+               <item>Babble, to prate.</item>
+               <item>Batcheler, one unmarried.</item>
+               <item>Bachelour of Arts.</item>
+               <item>bacon, ſwines fleſh dryed.</item>
+               <item>Barreſter, a Lawyer that pleads at the bar.</item>
+               <item>Beocon on a hill.</item>
+               <item>beckon, to nod at.</item>
+               <item>beautifie, adorn.</item>
+               <item>badge, a mark.</item>
+               <item>batch, ſo many loaves as is baked at once.</item>
+               <item>Bailiff, or Sergeant.</item>
+               <item>bail; to put in ſecurity,</item>
+               <item>bald, that hath loſt his hair</item>
+               <item>ball; to play with.</item>
+               <item>bawl, to cry.</item>
+               <item>Baal, an Idol.</item>
+               <item>baulm, an herb.</item>
+               <item>band; for the neck.</item>
+               <item>bond, for money.</item>
+               <item>
+                  <hi>Barbara,</hi> a womans name</item>
+               <item>
+                  <hi>Barbary,</hi> a part of <hi>Africa.</hi>
+               </item>
+               <item>Barbariſm, cruelty.</item>
+               <item>bark of a tree.</item>
+               <item>Barque, a little ſhip.</item>
+               <item>
+                  <hi>Berk-ſhire.</hi>
+               </item>
+               <item>baſe, diſhonourable.</item>
+               <item>Baſ-Viol.</item>
+               <item>Bear, a beaſt.</item>
+               <item>beer, to drink.</item>
+               <item>bier, to carry corps.</item>
+               <item>bellows, to blow with.</item>
+               <item>bellies, paunches.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <pb n="41" facs="tcp:41674:23"/>
+               <item>bewray, diſcover.</item>
+               <item>beſeech, to entreat.</item>
+               <item>beſiege to beſet ſouldiers.</item>
+               <item>bin, to keep bread in.</item>
+               <item>been, were; or waſt.</item>
+               <item>biggin, to wear.</item>
+               <item>begin, to enter on buſi<g ref="char:EOLhyphen"/>neſs.</item>
+               <item>bittour, a wild-ſowl.</item>
+               <item>bitter, not ſweet.</item>
+               <item>Bigamy, Marriage of two wives at once.</item>
+               <item>baudy, obſcene, filthy.</item>
+               <item>body, a ſubſtance.</item>
+               <item>bodies of a gown.</item>
+               <item>boll, to waſh in.</item>
+               <item>bowl, to drink in, or to play with.</item>
+               <item>To blanch, to pull of the rind.</item>
+               <item>To bleach, or whiten clothes.</item>
+               <item>boar, a ſwine.</item>
+               <item>bore, to pierce a hole.</item>
+               <item>bough of a tree.</item>
+               <item>bow, to bend.</item>
+               <item>bowe to ſhoot.</item>
+               <item>boy, a lad.</item>
+               <item>Brachygraphy, ſhort<g ref="char:EOLhyphen"/>writing.</item>
+               <item>bread; to eat</item>
+               <item>bred reard up, or brought up.</item>
+               <item>brain; or skull.</item>
+               <item>bran of wheat.</item>
+               <item>breaches, diviſions.</item>
+               <item>breeches; men wear.</item>
+               <item>bruite, a rumour.</item>
+               <item>brute, rude.</item>
+               <item>bury, to lay in the earth.</item>
+               <item>berry of rabbets.</item>
+               <item>buy to purchaſe.</item>
+               <item>by me, or by and by.</item>
+               <item>Burglary, breaking into a houſe.</item>
+               <item>Bumbaſt, cotten; wool.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>CAble, a rope.</item>
+               <item>Cabal, private con<g ref="char:EOLhyphen"/>ſultation.</item>
+               <item>call, to name.</item>
+               <item>caul, ſewet that covers the bowels.</item>
+               <item>capable, fit to receive.</item>
+               <item>Carol, a Song.</item>
+               <item>Coral; for children.</item>
+               <item>carriage, behaviour.</item>
+               <item>Carryer, one that carries.</item>
+               <item>carriere, a horſe-race, full<g ref="char:EOLhyphen"/>ſpeed.</item>
+               <item>carrets to eat.</item>
+               <item>Chariots to ride in.</item>
+               <item>caſuals that happens by chance.</item>
+               <item>cauſey, a made-way.</item>
+               <item>A channel; or gutter.</item>
+               <item>A kennel for dogs.</item>
+               <item>ceaſe; to leave of.</item>
+               <item>
+                  <hi>Celestial;</hi> heavenly.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <pb n="42" facs="tcp:41674:24"/>
+               <item>ſeiſe, to lay hold on.</item>
+               <item>ſize, bigneſs.</item>
+               <item>cellar; to lay drink in.</item>
+               <item>ſellar, one that ſelleth.</item>
+               <item>cement, to faſten together.</item>
+               <item>cenſure, a judgment.</item>
+               <item>cenſor, a reformer.</item>
+               <item>centorie, a plant.</item>
+               <item>centurie, a hundred years</item>
+               <item>ſentry, a ſouldier on watch</item>
+               <item>chafe, to fret.</item>
+               <item>chaff of wheat.</item>
+               <item>chattel, all goods; leaſes.</item>
+               <item>cattel, beaſts.</item>
+               <item>chear, to make merry.</item>
+               <item>cheer, good food.</item>
+               <item>A chare woman.</item>
+               <item>chair; to ſit in.</item>
+               <item>child-blain, ſores from chilneſs.</item>
+               <item>Cittern, or cithern, an in<g ref="char:EOLhyphen"/>ſtrument of muſick.</item>
+               <item>circumſpect, wary.</item>
+               <item>Citron; to eat.</item>
+               <item>circumference, a round compaſs about a centre</item>
+               <item>circumlocution, one word expreſſed by many.</item>
+               <item>clauſe, a piece of a ſen<g ref="char:EOLhyphen"/>tence.</item>
+               <item>clarifie, to make clear.</item>
+               <item>Claws, nails.</item>
+               <item>To cloath with cloth.</item>
+               <item>Coat, a garment.</item>
+               <item>cote, a plate of incloſed ground.</item>
+               <item>coife, for womens head<g ref="char:EOLhyphen"/>attire</item>
+               <item>could, be able.</item>
+               <item>cogitation, thought.</item>
+               <item>coold; or made cold.</item>
+               <item>collar; for a doublet.</item>
+               <item>choler, a humor.</item>
+               <item>Collier, that carrieth coals</item>
+               <item>Scholar, one that learneth.</item>
+               <item>colour the cloth.</item>
+               <item>colures in the Globe.</item>
+               <item>Comet, a blazing-ſtar.</item>
+               <item>common, free for any.</item>
+               <item>complex, join'd together.</item>
+               <item>commune, to converſe.</item>
+               <item>comfort, matter of joy.</item>
+               <item>confects made with Sugar.</item>
+               <item>conſumption, a waſting diſeaſe.</item>
+               <item>condole, to mourn over.</item>
+               <item>coop for hens.</item>
+               <item>cope, to change.</item>
+               <item>cops of wood.</item>
+               <item>conciſe; brief.</item>
+               <item>concomitant, that accom<g ref="char:EOLhyphen"/>panies.</item>
+               <item>
+                  <hi>Colonel</hi> over a regiment.</item>
+               <item>compendious, ſhort.</item>
+               <item>
+                  <hi>Colony,</hi> a Plantation.</item>
+               <item>colander; or ſtrainer,</item>
+               <item>
+                  <hi>Coroner,</hi> or <hi>Crowner.</hi>
+               </item>
+               <item>corroborate, to ſtrengthen</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <pb n="43" facs="tcp:41674:24"/>
+               <item>A connexion, a tying to<g ref="char:EOLhyphen"/>gether.</item>
+               <item>conſanguinity, kindred by blood.</item>
+               <item>conſolidate, to make firm.</item>
+               <item>conſerve, to keep.</item>
+               <item>conſpicuous; clear; notable</item>
+               <item>A conſtellation, a compa<g ref="char:EOLhyphen"/>ny of ſtars.</item>
+               <item>conſumate, to finiſh.</item>
+               <item>counſel, advice.</item>
+               <item>council, to take counſel in</item>
+               <item>courſe, rough, groſs.</item>
+               <item>cormorant, glutton.</item>
+               <item>corſe, a dead body.</item>
+               <item>Coſtarmonger, an apple ſeller.</item>
+               <item>coſtive, bound in body.</item>
+               <item>
+                  <hi>Couſin,</hi> a near relation.</item>
+               <item>couſen, to cheat.</item>
+               <item>countermand, to bid con<g ref="char:EOLhyphen"/>trary.</item>
+               <item>current, a ſtream.</item>
+               <item>currant, paſſable.</item>
+               <item>corants, plums.</item>
+               <item>cravet to be worn about the neek.</item>
+               <item>crevet, a Goldſmiths mel<g ref="char:EOLhyphen"/>ting-pot.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>DAm a ſtopping of the water.</item>
+               <item>Damn, to condemn.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <item>Damſel, a brave laſs.</item>
+               <item>damſin, a black plum.</item>
+               <item>Dandruff, or ſcurf in the head.</item>
+               <item>A darling, one that's dear.</item>
+               <item>dandeprat, dwarf.</item>
+               <item>dear, beloved.</item>
+               <item>it coſt dear.</item>
+               <item>deer, an hart, buck.</item>
+               <item>defer, to delay.</item>
+               <item>differ, to vary.</item>
+               <item>demur, debate, doubt.</item>
+               <item>deambulation, walking abroad.</item>
+               <item>demure, modeſt.</item>
+               <item>Deſart, wilderneſe.</item>
+               <item>deſert, to forſake.</item>
+               <item>deſcent, genealogie.</item>
+               <item>decent, comly, hanſom.</item>
+               <item>diſſent, to diſagree.</item>
+               <item>devices, tricks.</item>
+               <item>
+                  <hi>Devizes,</hi> a Towns name.</item>
+               <item>diary, a daily calender.</item>
+               <item>dairy, where cheeſe is made.</item>
+               <item>Dilate, enlarge.</item>
+               <item>diſcomfit, to make com<g ref="char:EOLhyphen"/>fortleſs.</item>
+               <item>Dine, to eat a dinner</item>
+               <item>Digeſt, to ſet in order.</item>
+               <item>diſſolute, debaucht, looſe.</item>
+               <item>diſſolate, uncomfortable.</item>
+               <item>doer, a maker.</item>
+               <item>door of a houſe.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <pb n="44" facs="tcp:41674:25"/>
+               <item>Domeſtick, houſhold.</item>
+               <item>dough, unbaked bread.</item>
+               <item>done, finiſhed.</item>
+               <item>dun, a dark colour.</item>
+               <item>Doeſt thou blow the duſt.</item>
+               <item>doller, a Dutch-coine.</item>
+               <item>dolour, grief.</item>
+               <item>drain, to draw ponds dry.</item>
+               <item>drawn, pull'd.</item>
+               <item>draught of drink.</item>
+               <item>drought, drineſs.</item>
+               <item>driblets, ſmall ſums.</item>
+               <item>dray, a Brewers ſled.</item>
+               <item>draw, to pull.</item>
+               <item>dew, ſmall drops.</item>
+               <item>due, or owing.</item>
+               <item>dunce, an unapt boy.</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Ear, a mans ear.</item>
+               <item>ere, before.</item>
+               <item>to erre in judgement.</item>
+               <item>Year, 12 moneths.</item>
+               <item>early, betimes.</item>
+               <item>Yearly, year by year,</item>
+               <item>edge, or brim.</item>
+               <item>Hedge, or Fence.</item>
+               <item>Earn, to get money.</item>
+               <item>yern, moved with com<g ref="char:EOLhyphen"/>paſſion.</item>
+               <item>Yarn, thread.</item>
+               <item>Earth we tread on.</item>
+               <item>hearth, the chimney floor.</item>
+               <item>Eaſt, where the ſun riſeth.</item>
+               <item>Effeminate, woman-like,</item>
+               <item>Egrimony, ſickneſs, grief.</item>
+               <item>Emerauld, a precious<g ref="char:EOLhyphen"/>ſtone.</item>
+               <item>Emeroids, Piles.</item>
+               <item>Emulate, to ſtrive to ex<g ref="char:EOLhyphen"/>ceed.</item>
+               <item>imminent, hanging over.</item>
+               <item>Elegancy, fineneſſe in ſpeech.</item>
+               <item>
+                  <hi>Eſther,</hi> a Queens name.</item>
+               <item>Eaſter a times name.</item>
+               <item>Heſter, an Idols name.</item>
+               <item>Yeſterday, a day paſt.</item>
+               <item>eyes, to ſee with.</item>
+               <item>Ice, frozen water.</item>
+               <item>interr, bury.</item>
+               <item>enter, to go in.</item>
+               <item>intire, whole.</item>
+               <item>Endorſe, to write on the backſide.</item>
+               <item>Epidemical, univerſal.</item>
+               <item>Etimology, a true expo<g ref="char:EOLhyphen"/>ſition.</item>
+               <item>exaſperate to make angry</item>
+               <item>Extirpate, to root out.</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>FAme, rumour.</item>
+               <item>facility, eaſe, facile, eaſie.</item>
+               <item>feign, to counterfeit.</item>
+               <item>fanatick, a diſtracted per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <pb n="45" facs="tcp:41674:25"/>
+               <item>fair, beautiful.</item>
+               <item>fare, to feed on.</item>
+               <item>feat, fine, neat.</item>
+               <item>fell, to hew new timber.</item>
+               <item>A <hi>Feoffee,</hi> one intruſted in an eſtate for another.</item>
+               <item>felicity, happineſs.</item>
+               <item>fin'd for Alderman.</item>
+               <item>finde, to get again.</item>
+               <item>fiends, evil ſpirits.</item>
+               <item>fins on fiſh.</item>
+               <item>fillip with a finger.</item>
+               <item>
+                  <hi>Philip,</hi> a mans name.</item>
+               <item>flea, to pull off the skin.</item>
+               <item>flea, or that breeds in beds.</item>
+               <item>flee, to eſcape.</item>
+               <item>flitch of Bacon.</item>
+               <item>flagrant, burning, ardent.</item>
+               <item>flour of a chamber.</item>
+               <item>flower of a plant.</item>
+               <item>flower, fine meal.</item>
+               <item>flocks of wool.</item>
+               <item>Bloody-flux.</item>
+               <item>fool, a ſilly fellow.</item>
+               <item>foal, a young colt.</item>
+               <item>foil, a repulſe.</item>
+               <item>fomentation, a warm me<g ref="char:EOLhyphen"/>dicine.</item>
+               <item>foul, dirty.</item>
+               <item>fowl, a bird.</item>
+               <item>fore, before, former.</item>
+               <item>four, a number, or 4 ones.</item>
+               <item>forth, without.</item>
+               <item>fourth day of <hi>June.</hi>
+               </item>
+               <item>frize, ſhagged cloth.</item>
+               <item>freeze, to congeal.</item>
+               <item>froiſe, a ſort of pancake.</item>
+               <item>phraſe, a quaint expreſſion</item>
+               <item>furres, fine hairy skins.</item>
+               <item>furze, prickly ſhrubs.</item>
+               <item>frugal, thrifty.</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>GAllies, great boats.</item>
+               <item>Gallows, to hang rogues.</item>
+               <item>gard, a great hem of a garment.</item>
+               <item>Guard, a company of men that guard a perſon.</item>
+               <item>Gargle, to waſh the mouth and throat.</item>
+               <item>garden where plants grow</item>
+               <item>Guardian, One truſted with a fatherleſs child.</item>
+               <item>Garrulity, or vain babling.</item>
+               <item>gentle, mild.</item>
+               <item>Gentile, Heathen.</item>
+               <item>Geſtures, the carriage of the body.</item>
+               <item>Jeſter, one that breaks a jeſt.</item>
+               <item>Genius, a natural inclina<g ref="char:EOLhyphen"/>tion.</item>
+               <item>Geography, a deſcription of the earth.</item>
+               <item>gliſter as gold.</item>
+               <item>glyſter, given to a ſick man.</item>
+               <item>Gay, a fine ſuit of clothes.</item>
+               <pb n="46" facs="tcp:41674:26"/>
+               <item>gout, a diſeaſe in the joints</item>
+               <item>graſs of the earth.</item>
+               <item>graſe, to eat graſs,</item>
+               <item>Grace infuſed into the ſoul</item>
+               <item>Gray, a colour.</item>
+               <item>Grey-hound.</item>
+               <item>groan, to make a doleful cry.</item>
+               <item>grown, thriven.</item>
+               <item>groat, four pence.</item>
+               <item>grot, a cave.</item>
+               <item>a groſs, 12 dozen.</item>
+               <item>groſs, fat.</item>
+               <item>gueſs, a conjecture.</item>
+               <item>gueſt, to conjecture.</item>
+               <item>gueſt, whom we entertain.</item>
+               <item>guilt, or guilty.</item>
+               <item>guilt, gilded.</item>
+               <item>gun, to ſhoot.</item>
+               <item>gone, went away.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>HAch, to hach cold meat.</item>
+               <item>hatch for a door.</item>
+               <item>hatch up the chicken.</item>
+               <item>hatches of a ſhip.</item>
+               <item>hale, to lug</item>
+               <item>Hail-ſtones</item>
+               <item>hare, we hunt</item>
+               <item>Hair, of the head</item>
+               <item>A haunch of Veniſon</item>
+               <item>heir, the eldeſt ſon</item>
+               <item>an harbinger, one that goes before</item>
+               <item>Halſer, that which haleth a</item>
+               <item>hye, to make haſt</item>
+               <item>high, lofty</item>
+               <item>hoy, aveſſel</item>
+               <item>heart in the breaſt</item>
+               <item>hart, a Deer</item>
+               <item>hear, hearken</item>
+               <item>here, in this place</item>
+               <item>herring, a fiſh</item>
+               <item>heard, I did hear</item>
+               <item>Herd, a drove of Cattel</item>
+               <item>hard, ſolid</item>
+               <item>Herſe, to lay over the dead</item>
+               <item>Hippocras, a kind of ſweet wine compounded.</item>
+               <item>hoarſe with a cold</item>
+               <item>Horſe, to ride on</item>
+               <item>Hollow, empty</item>
+               <item>hollo, to cry aloud</item>
+               <item>hallow, to make holy</item>
+               <item>holly, a tree</item>
+               <item>holy, devout</item>
+               <item>hole that is bored</item>
+               <item>whole, the total</item>
+               <item>Honny-moon, a proverb applied to ſom that love well at firſt, and not ſo well afterward</item>
+               <item>home at his houſe</item>
+               <item>whom, that which</item>
+               <item>hoop of a barrel</item>
+               <item>whoop, or cry aloud</item>
+               <item>hoar, a froſt</item>
+               <item>whore, a harlot</item>
+               <item>hore-hound a plant</item>
+               <pb n="47" facs="tcp:41674:26"/>
+               <item>hue, aviſage, Phyſiognomy</item>
+               <item>hu and cry</item>
+               <item>hew, to cut</item>
+               <item>hough, a ſuddain pet</item>
+               <item>hurly burly, a tumult</item>
+               <item>Hirarchy, Principality in ſubordination</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>Jambs, ſide poſts of a door</item>
+               <item>James, a mans name</item>
+               <item>Idol, a falſe God</item>
+               <item>idle, ſlothfull</item>
+               <item>Iſle or Iſland, oyl Olive</item>
+               <item>employ, to ſet to work</item>
+               <item>Ignominie, infamy</item>
+               <item>Illegitimate, baſe born</item>
+               <item>incite, to provoke</item>
+               <item>inſight, skill in any thing</item>
+               <item>impugne, to ſtir againſt, reſiſt</item>
+               <item>impenetrable, that which</item>
+               <item>cannot be pierced</item>
+               <item>impregnable, invincible</item>
+               <item>imprecation, curſing</item>
+               <item>imbecility, weak, infirm</item>
+               <item>ingenuous, free, good na<g ref="char:EOLhyphen"/>tur'd</item>
+               <item>inflexible, not to be mov'd</item>
+               <item>ingenious, good parts</item>
+               <item>Inne, a houſe of entertain<g ref="char:EOLhyphen"/>ment</item>
+               <item>in, in this place</item>
+               <item>inculcate, to preſs, to teach by often repetition.</item>
+               <item>interpellation, a let in ones buſineſs, an interruption</item>
+               <item>inviolable that cannot be broken</item>
+               <item>Job, a pat ent man</item>
+               <item>jobs, an odd piece of work</item>
+               <item>joul of Salmon</item>
+               <item>Joice, a womans name</item>
+               <item>joiſt, a little beam</item>
+               <item>jointure, wifes dowry</item>
+               <item>juice, liquor ſqueezed out</item>
+               <item>iterate, to repeat a thing</item>
+               <item>itch, a humour</item>
+               <item>hitch, entangle</item>
+               <item>jug, a bottle</item>
+               <item>Juriſdiction, power, autho<g ref="char:EOLhyphen"/>rity, maſterſhip, domi<g ref="char:EOLhyphen"/>nion</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>kill, to deſtroy</item>
+               <item>kiln, to dry malt in</item>
+               <item>kailes, nine pins</item>
+               <item>chyle, meat firſt digeſted</item>
+               <item>keel, the bottom of a ſhip</item>
+               <item>keen, or ſharp</item>
+               <item>kin, one nearly related</item>
+               <item>knead the dough</item>
+               <item>The nave of a cart wheel</item>
+               <item>knave, a vile fellow</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>leger de main, crafty con<g ref="char:EOLhyphen"/>veyance</item>
+               <item>lamb, that a ſheep brings</item>
+               <item>lame, one that halts</item>
+               <pb n="48" facs="tcp:41674:27"/>
+               <item>launch, to put out a ſhip from harbour</item>
+               <item>laſs, a young maid</item>
+               <item>laſt, to make ſhoes upon</item>
+               <item>Latin, the latin tongue</item>
+               <item>Latten, tinne</item>
+               <item>line in writing</item>
+               <item>loyn of mutton</item>
+               <item>Leaden, made of Lead</item>
+               <item>Leyden a Univerſity in Holland</item>
+               <item>led, was led by another</item>
+               <item>lead, to guide</item>
+               <item>league, a covenant of peace</item>
+               <item>leg, that one goes upon</item>
+               <item>leaper, one that leapeth</item>
+               <item>Leper, one that hath the Leproſie</item>
+               <item>Leopard, a ſpotted beaſt</item>
+               <item>leaſe, to pick up ſhattered corn</item>
+               <item>a leaſh of hounds</item>
+               <item>leaſe, an indenture</item>
+               <item>leaſt, that which is leaſt</item>
+               <item>leſs, ſmall</item>
+               <item>leſſee; he that takes a leas</item>
+               <item>leſt; a note of forbidding;</item>
+               <item>Legion; ſix thouſand men</item>
+               <item>legends; Popiſh fables</item>
+               <item>Leman; a ſtrumpet</item>
+               <item>Lemons, or Oranges</item>
+               <item>leſſen; to make leſs</item>
+               <item>leſſon; that Scholars learn</item>
+               <item>Letice, a womans name</item>
+               <item>lettice; an herb</item>
+               <item>lattices; croſs barrs in windows</item>
+               <item>lice, filthy vermin</item>
+               <item>lies; falſe tales</item>
+               <item>lighter of Coals</item>
+               <item>limber; weak; eaſily bent</item>
+               <item>limner that draws pictures</item>
+               <item>liturgy, the comon prayer</item>
+               <item>lethargy; a drowſie diſeaſe</item>
+               <item>loath; to diſdain</item>
+               <item>loth; unwilling</item>
+               <item>Lunatick; frantick</item>
+               <item>luſtre; ſhining</item>
+               <item>luxurious; riotous; given to pleaſure</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Mail; a coat of mail to pack up things</item>
+               <item>megazine; a ſtore-houſe for war</item>
+               <item>Maugre; in ſpight; againſt ones will</item>
+               <item>Male; the he; or Maſculine</item>
+               <item>melancholy; ſad; heavy; ſullen; ſolitary</item>
+               <item>major; a commander in the Army</item>
+               <item>metropolitan; chief city or town</item>
+               <item>maior of a city, Lord Major</item>
+               <item>Maturity, ripeneſs, fulneſs</item>
+               <pb n="49" facs="tcp:41674:27"/>
+               <item>mare, that bears colt</item>
+               <item>A mark, two nobles, thir<g ref="char:EOLhyphen"/>teen ſhillings 4d.</item>
+               <item>main, might, chiefeſt</item>
+               <item>mane of a horſe</item>
+               <item>manchet, fine white bread</item>
+               <item>manſion, a Lords chief houſe</item>
+               <item>manner, faſhion</item>
+               <item>manners, good carriage</item>
+               <item>mannour, a Lordſhip</item>
+               <item>manure, to dung-ground</item>
+               <item>maranatha, accurſed</item>
+               <item>marred, ſpoiled, corrupted</item>
+               <item>married, joyned in marri<g ref="char:EOLhyphen"/>age</item>
+               <item>marſhal, the name of an Officer</item>
+               <item>martial, belonging to war</item>
+               <item>martin, a bird</item>
+               <item>martyr, Chriſts witneſs</item>
+               <item>Merton, a Town in <hi>Surrey</hi>
+               </item>
+               <item>maſs, the Popiſh letany</item>
+               <item>maſt, the maſt of a ſhip</item>
+               <item>maſte, acorn</item>
+               <item>medlar, a ſort of fruit</item>
+               <item>medler, a buſie body</item>
+               <item>melon, a kind of pompion</item>
+               <item>million, ten hundred thou<g ref="char:EOLhyphen"/>ſand</item>
+               <item>meet, fit, convenient</item>
+               <item>meat, that we eat</item>
+               <item>meſſage, errand</item>
+               <item>meſſuage, tenement</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <item>meeter, fitter</item>
+               <item>meter, verſe, rhime</item>
+               <item>Methridate; a confection in Phyſick</item>
+               <item>might, power</item>
+               <item>mile, 1760 yards in length</item>
+               <item>mite, ſmall coine, a worm</item>
+               <item>moat, a pond abouta houſe</item>
+               <item>mote, the leaſt duſt or that which breeds in wool</item>
+               <item>Moore, a mans name</item>
+               <item>more; that exceedeth</item>
+               <item>moor; a fenny ground</item>
+               <item>mortar that we pound in</item>
+               <item>morter; made of lime and ſand</item>
+               <item>Moyety, the one half</item>
+               <item>mo. for more</item>
+               <item>mowe; to cut graſs</item>
+               <item>mow, a rick of corn</item>
+               <item>muzzle, to ſtop the mouth</item>
+               <item>muſcle, a ſmall ſhell fiſh</item>
+               <item>muſcle, a moving part of the body</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>NAught, bad, wicked.</item>
+               <item>Nought, nothing.</item>
+               <item>Neather, lower.</item>
+               <item>neither, none of them.</item>
+               <item>neſh, tender, effeminate.</item>
+               <item>nice, curious, delicate.</item>
+               <item>Neece, a brother or ſiders</item>
+               <pb n="50" facs="tcp:41674:28"/>
+               <item>Nephew, a brothers ſon.</item>
+               <item>neigh as horſes do.</item>
+               <item>nay, not ſo, or no.</item>
+               <item>nigh, near.</item>
+               <item>A Noble, ſix ſhillings 8 <hi>d.</hi>
+               </item>
+               <item>noſe on the face.</item>
+               <item>Noiſe, ſtir, clamour.</item>
+               <item>News, report of things.</item>
+               <item>nonnage; one not come to age.</item>
+               <item>notorious, noted for ſome vice.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>OBſcene, filthy.</item>
+               <item>Oar, to row with.</item>
+               <item>Ore, unrefined metal.</item>
+               <item>Oyer and terminer.</item>
+               <item>One, the firſt number.</item>
+               <item>own, to acknowledg with propriety.</item>
+               <item>Omniſcient, All-ſeeing.</item>
+               <item>ominous, portending good or hurt.</item>
+               <item>Once, one time.</item>
+               <item>One's, of one, as one's body, one's right</item>
+               <item>Ounce in weight.</item>
+               <item>Onion, a plant.</item>
+               <item>Union, agreement.</item>
+               <item>Oh, a note of bemoaning.</item>
+               <item>Opprobrious, reproachful</item>
+               <item>Owe, to be in debt.</item>
+               <item>Oppugne, to aſſault, to batter.</item>
+               <item>Orthography, true writ<g ref="char:EOLhyphen"/>ing.</item>
+               <item>Oſtentation, vain boaſting</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>A Pace, or ſtep, 2 feet ½.</item>
+               <item>Pail, to cary milk in.</item>
+               <item>pale, or wan.</item>
+               <item>pale, or pales to a garden.</item>
+               <item>Paragraph; that which is contain'd in one ſen<g ref="char:EOLhyphen"/>tence.</item>
+               <item>Pair, a pair of hoſe.</item>
+               <item>pare, to cut off.</item>
+               <item>repair, to mend what is decay'd, or to go to a place.</item>
+               <item>palate, the roof of the mouth.</item>
+               <item>Pallet, a little bed</item>
+               <item>palliate, to cloak a buſi<g ref="char:EOLhyphen"/>neſs.</item>
+               <item>Pavilion, a tent.</item>
+               <item>pains, labour.</item>
+               <item>panes of glaſs.</item>
+               <item>pans of Braſs.</item>
+               <item>Parſon of a Parriſh.</item>
+               <item>penetrate, to pierce.</item>
+               <item>perſon, a man or moman</item>
+               <item>penury, want.</item>
+               <item>partition, as a wall.</item>
+               <item>petition, an humble re<g ref="char:EOLhyphen"/>queſt.</item>
+               <item>Permanent, durable.</item>
+               <item>Patent open, as a letter</item>
+               <pb n="51" facs="tcp:41674:28"/>
+               <item>Patins, that women walk upon.</item>
+               <item>patience, that grace of ſuffering.</item>
+               <item>Patient, a ſick perſon.</item>
+               <item>Pauſe, a ſtop in ſpeaking.</item>
+               <item>paws of a Lion.</item>
+               <item>peice, a peice of cloth.</item>
+               <item>peaſe, pulſe.</item>
+               <item>Pear, a ſort of fruit.</item>
+               <item>Peer, a Noble man.</item>
+               <item>pebble, a little ſtone.</item>
+               <item>people, a multitude of men.</item>
+               <item>pens for writing.</item>
+               <item>pence, as ſix pence.</item>
+               <item>peſtil, wherewith we pound, ſomething.</item>
+               <item>Peſſle of Pork.</item>
+               <item>Epiſtle, a letter.</item>
+               <item>Piſtol, a little gun.</item>
+               <item>pizzle of a beaſt.</item>
+               <item>Phlebotomy, letting blood</item>
+               <item>
+                  <hi>Pilate,</hi> who condemned Chriſt.</item>
+               <item>Pilot, a guide of a ſhip.</item>
+               <item>place, room, ſpace.</item>
+               <item>plaice, a flat fiſh.</item>
+               <item>plat, a parcel of ground.</item>
+               <item>plait, to ſet the hair in order.</item>
+               <item>play, a game, or comedie.</item>
+               <item>plea, a defence, excuſe.</item>
+               <item>To poach an egg.</item>
+               <item>Pottage, or porrage to eat.</item>
+               <item>Portage, carriage.</item>
+               <item>Pole, a long ſtick.</item>
+               <item>poll the head, or to cut the hair.</item>
+               <item>poor, in want.</item>
+               <item>pore, to fix the eyes on a thing.</item>
+               <item>potion, a parcel or quan<g ref="char:EOLhyphen"/>tity given.</item>
+               <item>portion, a daughters por<g ref="char:EOLhyphen"/>tion.</item>
+               <item>power, might.</item>
+               <item>power out of a veſſel.</item>
+               <item>pragmatical, a practitio<g ref="char:EOLhyphen"/>ner in the Law, or one expert in many things.</item>
+               <item>Pray, to put up requeſts to God.</item>
+               <item>Prey, a ſpoil, to devour.</item>
+               <item>Pry, to ſearch into.</item>
+               <item>precedent, fore-going.</item>
+               <item>Preſident, chief-ruler, or example.</item>
+               <item>Preſs of people.</item>
+               <item>Preſt-money.</item>
+               <item>Preſs for books.</item>
+               <item>price, value, worth.</item>
+               <item>prize, taken from an ene<g ref="char:EOLhyphen"/>my, or to value goods</item>
+               <item>Praiſe, to commend.</item>
+               <item>principal, chief.</item>
+               <item>principle, a fundamental</item>
+               <pb n="52" facs="tcp:41674:29"/>
+               <item>propenſity, towardneſs, inclination</item>
+               <item>profit, advantage.</item>
+               <item>Profundity, depth.</item>
+               <item>profound, deep.</item>
+               <item>Prophet, one that foretells things.</item>
+               <item>Puiſſant, mighty, ſtrong.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>Quadripartite, of four parts</item>
+               <item>Quadruple; four times as much.</item>
+               <item>quarrel, ſtrife, bickering</item>
+               <item>quarie of glaſs</item>
+               <item>quarrie of ſtones</item>
+               <item>querie, a queſtion</item>
+               <item>quarter, the fourth part</item>
+               <item>quartan, belonging to the 4th. part</item>
+               <item>quench, to put out fire</item>
+               <item>quince; a fruit</item>
+               <item>quean; a ſtrumpet</item>
+               <item>Queen; the Kings wife</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Raca; empty, ſilly</item>
+               <item>Rachal; a place</item>
+               <item>Radition; brightneſs</item>
+               <item>Rachel, Jacobs wife</item>
+               <item>radical; inbred</item>
+               <item>rake-hell; a notorious rogue</item>
+               <item>race; deſcent; or horſe-race</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <item>rack, to torment men</item>
+               <item>rack, for horſes hay</item>
+               <item>wreck, ruin</item>
+               <item>ſhipwrack, a ſhip caſt a<g ref="char:EOLhyphen"/>way</item>
+               <item>raiſe, to lift up</item>
+               <item>rays, ſun-beams</item>
+               <item>riſe, to riſe up</item>
+               <item>Razor, to ſhave with</item>
+               <item>A raiſer of taxes</item>
+               <item>rice, a ſort of corn</item>
+               <item>roſen, a binding gum</item>
+               <item>read, as to read a book</item>
+               <item>red, a colour</item>
+               <item>reed, that grows</item>
+               <item>real, ſincere, in earneſt</item>
+               <item>royal, Kingly, noble</item>
+               <item>rear, to lift up</item>
+               <item>rare, ſomething excellent</item>
+               <item>rere, behind as rere-ward</item>
+               <item>reciprocal, mutual</item>
+               <item>reign, to rule as ſoveraign</item>
+               <item>rain, drops from the sky</item>
+               <item>rain-bow</item>
+               <item>rain of a bridle</item>
+               <item>reins, of the back</item>
+               <item>to rinſe linnen</item>
+               <item>recapitulate, to rehearſe briefly</item>
+               <item>retch, to ſtretch</item>
+               <item>reach, to fetch a thing to one</item>
+               <item>wretch, miſerable</item>
+               <item>to repugne, to reſiſt</item>
+               <pb n="53" facs="tcp:41674:29"/>
+               <item>right, equal; juſt</item>
+               <item>right hand</item>
+               <item>rite, ceremony</item>
+               <item>write with a pen</item>
+               <item>Wright, a mans name</item>
+               <item>rhetorick the art of ſpeak<g ref="char:EOLhyphen"/>ing eloquently</item>
+               <item>roan, reddiſh colour</item>
+               <item>Rouen, a city in France</item>
+               <item>Rome; a City</item>
+               <item>rome to rage, tear all be<g ref="char:EOLhyphen"/>fore one</item>
+               <item>room; a ſpace, a chamber</item>
+               <item>rough; rugged, courſe</item>
+               <item>roof of an houſe</item>
+               <item>ruff; plaited as a ruff band</item>
+               <item>row; of Trees</item>
+               <item>row; in a boat</item>
+               <item>roe; a wild-goat</item>
+               <item>rowel of a ſpur</item>
+               <item>rule; that we ſhould walk by</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>ſafeguard; ſure cuſtody</item>
+               <item>ſage; a herb</item>
+               <item>ſage; grave, wiſe;</item>
+               <item>ſageneſs; gravity; weighti<g ref="char:EOLhyphen"/>neſs</item>
+               <item>ſaveguard, that women ride in</item>
+               <item>ſale; to be ſold</item>
+               <item>ſayl of a ſhip</item>
+               <item>ſalve; a plaiſter</item>
+               <item>ſave; to defend; or deliver</item>
+               <item>ſaviour, one that ſaves</item>
+               <item>ſcarce, hardly</item>
+               <item>ſcars; cuts healed up</item>
+               <item>ſcent, ſmell; that hounds do follow.</item>
+               <item>ſince; ſince the time</item>
+               <item>ſenſes; 5 ſenſes; hearing; ſeeing; ſmelling; taſting; feeling</item>
+               <item>ſent; I did ſend</item>
+               <item>ſchool; where boys are taught</item>
+               <item>ſcull; the brain pan</item>
+               <item>ſcholars; ſuch as do learn</item>
+               <item>ſcullers; little boats</item>
+               <item>Sea, the Ocean</item>
+               <item>ſay; to ſpeak</item>
+               <item>ſee; to behold</item>
+               <item>ſeal; as to ſeal a letter</item>
+               <item>ciel; to make a cieling</item>
+               <item>ſeer; a prophet</item>
+               <item>Seir; a country</item>
+               <item>ſenior; the elder</item>
+               <item>junior, the younger</item>
+               <item>Seignior; the chief man in Turky</item>
+               <item>ſeaſin; as to make livery, to give the right to a<g ref="char:EOLhyphen"/>nother</item>
+               <item>ſeiſin poſſeſſion</item>
+               <item>ſeaſon; opportunity</item>
+               <item>Sex; as male or female</item>
+               <item>ſects; factions</item>
+               <item>Surgeon, or Chirurgeon.</item>
+               <item>Sergeant at Mace that Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </item>
+               <pb n="54" facs="tcp:41674:30"/>
+               <item>Shear, that we cut.</item>
+               <item>ſheer quite off.</item>
+               <item>ſhire, a County.</item>
+               <item>ſhare, part with another.</item>
+               <item>ſhave, as Barbers do.</item>
+               <item>ſheaves of corn.</item>
+               <item>ſheathe, to put into the ſheath.</item>
+               <item>ſheep, that bears wool.</item>
+               <item>Ship, that goes to Sea.</item>
+               <item>ſiniſter, unjuſt, not equal.</item>
+               <item>ſhekel of the ſanctuary, two ſhillings.</item>
+               <item>ſickle, to reap with.</item>
+               <item>ſhoot, a young ſprig.</item>
+               <item>ſhoot, bullets, arrows.</item>
+               <item>ſhout, make a noiſe.</item>
+               <item>ſhut the door.</item>
+               <item>
+                  <hi>Shute,</hi> a mans name.</item>
+               <item>Souldier that fights.</item>
+               <item>ſhoulder of the body.</item>
+               <item>ſhrew, a field mouſe.</item>
+               <item>ſhrew, a curſt woman.</item>
+               <item>ſhuttle, to weave with.</item>
+               <item>ſubtile, cunning.</item>
+               <item>ſight of the eyes.</item>
+               <item>cite, to quote an author.</item>
+               <item>ſign, a mark.</item>
+               <item>ſing with the voice.</item>
+               <item>ſinge, in the flame.</item>
+               <item>ſink, a gutter.</item>
+               <item>cinque-port-town.</item>
+               <item>ſigh, a mourning.</item>
+               <item>ſith, ſeeing that.</item>
+               <item>ſithe; that we mow with.</item>
+               <item>ſeethe; to boyl.</item>
+               <item>ſlead; to drag things on.</item>
+               <item>ſledge; a huge hammer.</item>
+               <item>ſlow; not quick.</item>
+               <item>ſlough; a dirty pool.</item>
+               <item>ſo; as in that manner.</item>
+               <item>to ſow corn; ſeed.</item>
+               <item>ſew; with needle and thread.</item>
+               <item>I ſaw; or have ſeen.</item>
+               <item>to ſaw timber.</item>
+               <item>Soal; of the foot.</item>
+               <item>ſole; onely; a fiſh.</item>
+               <item>ſoul; or body.</item>
+               <item>ſoar; to fly higher.</item>
+               <item>ſore; painful; tender.</item>
+               <item>ſowre, contrary to ſweet.</item>
+               <item>ſome, few; certain; ſome body.</item>
+               <item>ſum; a ſum of money.</item>
+               <item>ſun; the ſun that ſhines.</item>
+               <item>ſon; a fathers ſon.</item>
+               <item>ſpear; a ſharp pointed weapon.</item>
+               <item>ſphear; the circle wherein the ſtars move.</item>
+               <item>ſtairs; ſteps to go up.</item>
+               <item>ſtares; birds.</item>
+               <item>ſtare, to look ſtedfaſtly on.</item>
+               <item>Stars, in the firmament.</item>
+               <item>ſtaple of the door.</item>
+               <item>ſtaple; a firm commodity.</item>
+               <item>ſtable; for horſes.</item>
+               <pb n="55" facs="tcp:41674:30"/>
+               <item>ſtopple of a bottle.</item>
+               <item>ſtature; proportion; big<g ref="char:EOLhyphen"/>neſs.</item>
+               <item>Statute; Law made.</item>
+               <item>Statue; an Effigies.</item>
+               <item>ſtead; room; lieu; in ſtead of.</item>
+               <item>Steed; a ſtately horſe.</item>
+               <item>bed-ſtead; that we lye upon.</item>
+               <item>ſteel; to edge tools with<g ref="char:EOLhyphen"/>all.</item>
+               <item>ſtile; a faculty in writing.</item>
+               <item>Steer, a Bullock.</item>
+               <item>ſteer; to guide a Ship.</item>
+               <item>ſtood; did ſtand.</item>
+               <item>ſtud; a ſmall poſt.</item>
+               <item>ſtraight; even; quickly.</item>
+               <item>ſtreight; diſtreſs, ſtrait.</item>
+               <item>ſuccour; aid; relief.</item>
+               <item>ſucker; a ſprig.</item>
+               <item>Suit in Law</item>
+               <item>ſuit of clothes</item>
+               <item>Sewet; fat of Beef, or mutton</item>
+               <item>ſwound; to faint.</item>
+               <item>ſound; intire.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>TAber; timbrel, a little drum.</item>
+               <item>taper; a ſtately wax can<g ref="char:EOLhyphen"/>dle.</item>
+               <item>entail; an inheritance in fee</item>
+               <item>Tail; of a beaſt.</item>
+               <item>tale, an idle ſtory.</item>
+               <item>tall, high in ſtature.</item>
+               <item>Teal; a fowl.</item>
+               <item>Tares, weeds in the corn.</item>
+               <item>tears, that we do weep.</item>
+               <item>Taint, to infect.</item>
+               <item>Taunt, to flout; jeer.</item>
+               <item>attaint; to convict by Law</item>
+               <item>Thames, a river.</item>
+               <item>Team, of Horſes</item>
+               <item>teem, to be with child.</item>
+               <item>teat, which a child ſucks.</item>
+               <item>Tit, a little horſe.</item>
+               <item>Tenor; in muſick.</item>
+               <item>Tenor, the purport of a thing.</item>
+               <item>Tenure the manner of holding tenements</item>
+               <item>thorow; as to pierce tho<g ref="char:EOLhyphen"/>row</item>
+               <item>through; by means of</item>
+               <item>throw; to caſt off</item>
+               <item>Thruſh a ſinging bird</item>
+               <item>truſs; to tye up</item>
+               <item>thyme; a herb</item>
+               <item>time; continuation of hours</item>
+               <item>Title of honour; or right to a thing</item>
+               <item>tittle; a point; a ſpeck</item>
+               <item>toe, the toe of the foot</item>
+               <item>too, too much or too little</item>
+               <item>towe; Ockam; combing of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <pb n="56" facs="tcp:41674:31"/>
+               <item>two, two things</item>
+               <item>to; to a place</item>
+               <item>two; to hale a boat</item>
+               <item>tomb; a monument, ſepul<g ref="char:EOLhyphen"/>chre</item>
+               <item>tome; a ſection part of a folio</item>
+               <item>tongue; that we ſpeak with</item>
+               <item>tongs; to take up coals with</item>
+               <item>torn; that torners do make</item>
+               <item>turn; to move to and fro</item>
+               <item>torne; or rent</item>
+               <item>track; footſteps</item>
+               <item>tract; or treatiſe</item>
+               <item>treaty; parley concerning peace</item>
+               <item>treatment; entertainment</item>
+               <item>tripartite, of three parts</item>
+               <item>trey, a veſſel</item>
+               <item>tray, number of three</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>vacant, empty</item>
+               <item>vacation, a reſpite time</item>
+               <item>vocation, calling or im<g ref="char:EOLhyphen"/>ployment</item>
+               <item>vain, empty, fooliſh</item>
+               <item>vein in the body</item>
+               <item>vail, covering of the face</item>
+               <item>vale, to put off, ſubmit</item>
+               <item>vale, or valley</item>
+               <item>vale, farewell</item>
+               <item>Venice, a great City</item>
+               <item>Venus, the goddeſs of</item>
+               <item>vial, phial, a wide mouth<g ref="char:EOLhyphen"/>ed pot, or cup</item>
+               <item>Viol, an inſtrument of mu<g ref="char:EOLhyphen"/>ſick</item>
+               <item>vice, wickedneſs</item>
+               <item>voice, to ſing with</item>
+               <item>viſage feature in the face</item>
+               <item>vizzard to hide the face with</item>
+               <item>vital ſpirits wherein life is ſeated</item>
+               <item>victuals, food, proviſion</item>
+               <item>Voucher, advocate</item>
+            </list>
+            <list>
+               <head>U.</head>
+               <item>Umbles, of a Deer</item>
+               <item>humble; low, ſubmiſſive</item>
+               <item>Umpire; that decides a controverſie</item>
+               <item>uſe, cuſtom</item>
+               <item>uſury, money upon inter<g ref="char:EOLhyphen"/>eſt</item>
+               <item>us; we</item>
+               <item>Uz, Jobs Countrey</item>
+               <item>utenſils, things neceſſary for our uſe</item>
+               <item>vulgar, common</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>Wain, declining of the Moon</item>
+               <item>wan, pale, of a ſickly look</item>
+               <item>wand, a riding rod</item>
+               <item>waiſt, ones middle</item>
+               <pb n="57" facs="tcp:41674:31"/>
+               <item>waſte, deſolate, uſeleſs</item>
+               <item>waits, the City muſicians</item>
+               <item>waſt, or wert</item>
+               <item>waites, he waiteth</item>
+               <item>weights, as <hi>Troy</hi> weight 12 ounces to a pound, or <hi>Avoir de pois</hi> weight 16 ounces to a pound</item>
+               <item>wight, an Iſland</item>
+               <item>wales a Countrey</item>
+               <item>walls of a City</item>
+               <item>wale, great thread in ſtuff</item>
+               <item>bewail, to bemoan</item>
+               <item>Wakes, country feaſts</item>
+               <item>a wake, to rowſe up</item>
+               <item>walk, to go by leiſure</item>
+               <item>walks, where people do walk</item>
+               <item>wardſhip, the guardian<g ref="char:EOLhyphen"/>ſhip of Orphan</item>
+               <item>worſhip, an Eſquires dig<g ref="char:EOLhyphen"/>nity</item>
+               <item>warp, to chap as boards do</item>
+               <item>warp, yarn; woven</item>
+               <item>woof yarn, that goeth athwart the cloth</item>
+               <item>hoof of a Horſe</item>
+               <item>way, that we walk in</item>
+               <item>weigh, to try in a balance</item>
+               <item>wey, a wey of Cheeſe</item>
+               <item>whey, and butter-milk,</item>
+               <item>wear, to put on</item>
+               <item>were, they were</item>
+               <item>were, a commodity</item>
+               <item>wier, Iron thread</item>
+               <item>weel, to catch fiſh</item>
+               <item>wee'l, for we will</item>
+               <item>weal, wealth; a pimple</item>
+               <item>weild, to turn a ſword a<g ref="char:EOLhyphen"/>bout</item>
+               <item>wild, untame</item>
+               <item>wicked, ill given, debaucht</item>
+               <item>wicket; an half door</item>
+               <item>win, to get a wager</item>
+               <item>wind, that blows</item>
+               <item>wine, ſqueezed out of grapes</item>
+               <item>witch, that bewitcheth</item>
+               <item>which, that, who</item>
+               <item>woad, dying ſtuff</item>
+               <item>wood, fewel; timber</item>
+               <item>wo, alaſs miſery</item>
+               <item>woe, to be a ſuitor</item>
+               <item>wrap, to fold in</item>
+               <item>rap, to give a ſmall blow</item>
+               <item>rape; to force</item>
+               <item>wring, to ſqueeze hard</item>
+               <item>ring, on the finger</item>
+               <item>wrote; I have written</item>
+               <item>wrought, I did work</item>
+               <item>by rote, without book</item>
+               <item>wrong, to do wrong</item>
+            </list>
+            <list>
+               <head>X.</head>
+               <item>Xpian, Chriſtian, X ten</item>
+            </list>
+            <pb n="58" facs="tcp:41674:32"/>
+            <list>
+               <head>Y.</head>
+               <item>YEa, yes</item>
+               <item>yet, nevertheleſs</item>
+               <item>to wit, viz. or videlicet, that is to ſay</item>
+               <item>yeſt, barm, to mix with meal for bread</item>
+               <item>it's, for it is</item>
+               <item>tis, for it is</item>
+               <item>you, thou, ye</item>
+               <item>an ewe, or ſheep</item>
+               <item>yrkſom, tedious</item>
+               <item>yellow of colour</item>
+               <item>year, 12 Months, or 365 dayes, and 6 hours</item>
+               <item>ynkhorn, to put ynk in, to write withal</item>
+               <item>yeeld, to render up, to ſub<g ref="char:EOLhyphen"/>mit</item>
+               <item>yew, tree</item>
+               <item>yolk, of eggs</item>
+               <item>yoak, that oxen draw in</item>
+               <item>Oak, a tree</item>
+               <item>yore, in old time</item>
+               <item>ewer, a ſmall necked pot</item>
+               <item>your, as your book</item>
+            </list>
+            <list>
+               <head>Z.</head>
+               <item>ZEdary, wormſeed</item>
+               <item>zeal, great love, ar<g ref="char:EOLhyphen"/>dent affection</item>
+               <item>The Zodiack, that of the firmament, underwhich the planets move</item>
+               <item>Zion, or Mount Zion, the Church of God, whom he hath choſen to dwell in for ever.</item>
+            </list>
+         </div>
+         <div type="glossary_of_proper_names">
+            <pb n="59" facs="tcp:41674:32"/>
+            <head>
+               <l>Theſe proper names, with what they ſignifie,</l>
+               <l>Are here added, for you to learn thereby.</l>
+            </head>
+            <list>
+               <item>
+                  <hi>ABel,</hi> mourning</item>
+               <item>
+                  <hi>Abiah,</hi> the will of God</item>
+               <item>
+                  <hi>Abraham,</hi> father of a great multitude</item>
+               <item>
+                  <hi>Adam,</hi> man, earthly</item>
+               <item>
+                  <hi>Abigail,</hi> the fathers joy</item>
+               <item>
+                  <hi>Andrew,</hi> ſtrong, or manly</item>
+               <item>
+                  <hi>Barnabas,</hi> the ſon of con<g ref="char:EOLhyphen"/>ſolation</item>
+               <item>
+                  <hi>Baruch,</hi> bleſſed</item>
+               <item>
+                  <hi>Benjamin,</hi> the ſon of the right hand</item>
+               <item>
+                  <hi>Bethel,</hi> the houſe of God</item>
+               <item>
+                  <hi>Caleb,</hi> as a Hart</item>
+               <item>
+                  <hi>Daniel,</hi> judgement of God</item>
+               <item>
+                  <hi>David,</hi> beloved</item>
+               <item>
+                  <hi>Eleazar</hi> the help of God</item>
+               <item>
+                  <hi>Eliezer</hi> the help of God</item>
+               <item>
+                  <hi>Elijah,</hi> God the Lord, or a ſtrong Lord</item>
+               <item>
+                  <hi>Eliſha,</hi> my God ſaveth or the health of God</item>
+               <item>
+                  <hi>Emanuel,</hi> God with us</item>
+               <item>
+                  <hi>Ephraim,</hi> fruitful</item>
+               <item>
+                  <hi>Eunice,</hi> good victory</item>
+               <item>
+                  <hi>Ezekiel,</hi> the ſtrength of God</item>
+               <item>
+                  <hi>Enoch,</hi> taught or dedicate</item>
+               <item>
+                  <hi>Ezra,</hi> an helper</item>
+               <item>
+                  <hi>Gabriel,</hi> a man of God</item>
+               <item>
+                  <hi>Habakuk,</hi> a wreſtler</item>
+               <item>
+                  <hi>Hilkiah,</hi> the Lords gentle<g ref="char:EOLhyphen"/>neſs</item>
+               <item>
+                  <hi>Jacob,</hi> a ſupplanter</item>
+               <item>
+                  <hi>James,</hi> a maintainer</item>
+               <item>
+                  <hi>Ichabod,</hi> the glory is de<g ref="char:EOLhyphen"/>parted</item>
+               <item>
+                  <hi>Jedidah,</hi> beloved</item>
+               <item>
+                  <hi>Jehoſaphat,</hi> the Lord is the judge</item>
+               <item>
+                  <hi>Jeſus</hi> a Saviour</item>
+               <item>
+                  <hi>Job,</hi> ſorrowful</item>
+               <item>
+                  <hi>Joſeph,</hi> encreaſe</item>
+               <item>
+                  <hi>Iſrael,</hi> a prince with God</item>
+               <item>
+                  <hi>Iſaac,</hi> laughing</item>
+               <item>
+                  <hi>Lazarus,</hi> the help of God</item>
+               <item>
+                  <hi>Levi,</hi> joyned</item>
+               <item>
+                  <hi>Lot,</hi> wrapped, joyned</item>
+               <item>
+                  <hi>Melchizedek,</hi> king of righteouſneſs</item>
+               <item>
+                  <hi>Mehetabel,</hi> how good is God, or God doing well</item>
+               <item>
+                  <hi>Michael,</hi> who is God, or who is like God!</item>
+               <item>
+                  <hi>Moſes,</hi> drawn up, or taken out</item>
+               <item>
+                  <hi>Nehemiah,</hi> comfort, or the Reſt of the Lord</item>
+               <item>
+                  <hi>Noah</hi> a ceaſing or reſt</item>
+               <item>
+                  <hi>Paul,</hi> marvellous</item>
+               <item>
+                  <hi>Peniel,</hi> ſeeing God</item>
+               <pb n="60" facs="tcp:41674:33"/>
+               <item>
+                  <hi>Peter,</hi> a ſtone, or rock</item>
+               <item>
+                  <hi>Phebe,</hi> clear, or bright</item>
+               <item>
+                  <hi>Phinehas;</hi> a bold counte<g ref="char:EOLhyphen"/>nance</item>
+               <item>
+                  <hi>Philip,</hi> a warriour</item>
+               <item>
+                  <hi>Rachel,</hi> a ſheep</item>
+               <item>
+                  <hi>Rebecca,</hi> fed, or blunt, con<g ref="char:EOLhyphen"/>tention, or contention hindred</item>
+               <item>
+                  <hi>Sabbath,</hi> Reſt</item>
+               <item>
+                  <hi>Samuel,</hi> heard of God</item>
+               <item>
+                  <hi>Sarah,</hi> a Lady, or dame</item>
+               <item>
+                  <hi>Shem,</hi> renowned</item>
+               <item>
+                  <hi>Simon,</hi> hearing, or obeying</item>
+               <item>
+                  <hi>Theophilus,</hi> a friend of God</item>
+               <item>
+                  <hi>Thomas,</hi> deepneſs, without bottom</item>
+               <item>
+                  <hi>Timothy,</hi> the honour of God</item>
+               <item>
+                  <hi>Titus,</hi> honourable</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>zziel,</hi> the ſtrength of God</item>
+               <item>
+                  <hi>Zabdiel,</hi> the dowry of God</item>
+               <item>
+                  <hi>Zachariah,</hi> mindful of the Lord</item>
+               <item>
+                  <hi>Zephaniah,</hi> the hiding of the Lord</item>
+            </list>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:41674:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
